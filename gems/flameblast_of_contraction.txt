@@ -1,17 +1,18 @@
-Flameblast
+Flameblast of Contraction
 Spell, AoE, Fire, Channelling
 Level: 20 (Max)
 Cost: 7 Mana
 Cast Time: 0.20 sec
 Critical Strike Chance: 5.00%
-Effectiveness of Added Damage: 90%
+Effectiveness of Added Damage: 30%
 Quality: +20%
 Requires Level 70, 155 Int
-Channels to build up a large explosion, which is released when you stop using the skill. The longer you channel, the larger the area of effect and damage of the explosion.
-Deals 405 to 608 Fire Damage
+Channels to concentrate an explosion, which is released when you stop using the skill. The longer you channel, the larger the damage of the explosion, but the smaller the area.
+Deals 140 to 210 Fire Damage
 50% chance to Ignite enemies
-165% more Spell Damage for each stage
-60% more Damage with Ailments for each stage
+600% more Spell Damage for each stage
+250% more Damage with Ailments for each stage
+Base radius is 2.6 metres
 11 maximum Stages
-+0.3 metres to radius per Stage
+-0.2 metres to radius per Stage
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

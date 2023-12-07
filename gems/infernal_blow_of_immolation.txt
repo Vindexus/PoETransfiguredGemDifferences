@@ -1,4 +1,4 @@
-Infernal Blow
+Infernal Blow of Immolation
 Attack, AoE, Melee, Strike, Fire, Duration
 Level: 20 (Max)
 Cost: 6 Mana
@@ -6,12 +6,10 @@ Attack Damage: 166% of base
 Effectiveness of Added Damage: 166%
 Quality: +20%
 Requires Level 70, 155 Str
-Attacks with your weapon, applying a charged debuff to enemies hit by your strike, and an uncharged debuff to any other enemies hit. Upon reaching 6 charges, expiring, or the enemy's death, the charged debuff is removed, and it deals damage to that and other nearby enemies. Enemies with either debuff explode when they die, damaging other nearby enemies. Damage from this explosion cannot be reflected. Requires a Sword, Axe, Mace, Sceptre, Staff or Unarmed.
-Base duration is 0.80 seconds
+Attacks with your weapon, applying a charged debuff to you the first time you hit an enemy with this skill. Upon reaching 6 charges, or charges expiring, the charged debuff is removed to damage nearby enemies. Requires a Sword, Axe, Mace, Sceptre, Staff or Unarmed.
+Base duration is 3.00 seconds
 75 to 113 Added Fire Damage
 60% of Physical Damage Converted to Fire Damage
-Explosion deals base Fire Damage equal to 6% of the corpse's Maximum Life
-Base radius is 2.4 metres
-Base explosion radius is 1.8 metres
-Debuff deals 76% of Damage per Charge
+Base radius is 2.9 metres
+Debuff deals 90% of Damage per Charge
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

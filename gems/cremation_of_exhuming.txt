@@ -1,18 +1,19 @@
-Cremation
+Cremation of Exhuming
 Spell, AoE, Fire, Duration, Projectile, Orb
 Level: 20 (Max)
-Cost: 20 Mana
-Cast Time: 0.60 sec
+Cost: 26 Mana
+Cast Time: 0.80 sec
 Critical Strike Chance: 5.00%
 Quality: +20%
 Requires Level 70, 98 Dex, 68 Int
-A targeted corpse explodes, dealing area damage and turning into a volcanic geyser, which will repeatedly unleash projectiles sequentially over the surrounding area for a duration. The explosion of the corpse is not affected by modifiers to spell damage, and cannot be reflected.
+A targeted corpse explodes, dealing area damage and turning into a volcanic geyser, which will repeatedly unleash projectiles sequentially over the surrounding area and detonate nearby corpses for a duration. Corpse explosions are not affected by modifiers to spell damage, and cannot be reflected.
 Fires Projectiles every 1.0 seconds
 Base duration is 8.00 seconds
 Deals 434 to 651 Fire Damage
 Fires 4 Projectiles
-Maximum of 3 Geysers at a time
+Maximum of 1 Geysers at a time
 Fires Projectiles 10% faster
-Explosion deals base Fire Damage equal to 5% of the corpse's Maximum Life
+Explosion deals base Fire Damage equal to 6% of the corpse's Maximum Life
 +0.3 metres to radius
+Explode a nearby Corpse when Firing Projectiles
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

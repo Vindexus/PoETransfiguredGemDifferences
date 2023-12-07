@@ -1,18 +1,16 @@
-Firestorm
+Firestorm of Pelting
 Spell, AoE, Duration, Fire
 Level: 20 (Max)
 Cost: 25 Mana
 Cast Time: 0.75 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 80%
+Effectiveness of Added Damage: 120%
 Quality: +20%
 Requires Level 70, 155 Int
 Flaming bolts rain down over the targeted area. They explode when landing, dealing damage to nearby enemies.
-Base duration is 1.40 seconds
-Deals 361 to 541 Fire Damage
+Base duration is 2.00 seconds
+Deals 551 to 826 Fire Damage
 One impact every 0.15 seconds
-Base radius is 1.5 metres
-First Impact has 100% more Area of Effect
-First Impact deals 325% more Damage with Hits and Ailments
-Maximum 3 Firestorms at a time
+Base radius is 1.2 metres
+Maximum 10 Firestorms at a time
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

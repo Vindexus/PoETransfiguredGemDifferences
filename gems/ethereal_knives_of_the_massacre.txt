@@ -1,13 +1,14 @@
-Ethereal Knives
+Ethereal Knives of the Massacre
 Spell, Projectile, Physical
 Level: 20 (Max)
-Cost: 20 Mana
-Cast Time: 0.60 sec
+Cost: 25 Mana
+Cast Time: 0.75 sec
 Critical Strike Chance: 6.00%
 Effectiveness of Added Damage: 220%
 Quality: +20%
 Requires Level 70, 98 Dex, 68 Int
-Fires an arc of knives in front of the caster which deals physical damage.
+Fires a circle of knives around the caster which deal physical damage.
 Deals 949 to 1423 Physical Damage
-Fires 15 Projectiles
+Fires 19 Projectiles
+Fires Projectiles in a circle
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,12 +1,13 @@
-Barrage
+Barrage of Volley Fire
 Attack, Projectile, Bow
 Level: 20 (Max)
 Cost: 11 Mana
-Attack Damage: 54.6% of base
-Effectiveness of Added Damage: 55%
+Attack Damage: 60% of base
+Effectiveness of Added Damage: 60%
 Quality: +20%
 Requires Level 70, 155 Dex
-After a short preparation time, you fire individual projectiles repeatedly with a Bow or Wand. These projectiles have a small randomised spread. This skill cannot be Triggered.
-Fires 6 Projectiles
+After a short preparation time, you fire projectiles repeatedly with a Bow or Wand. These projectiles have a small randomised spread. This skill cannot be Triggered.
+Fires 4 Projectiles
 Fires Projectiles sequentially
+The first and final shots of the sequence fire 10 additional Projectiles simultaneously
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

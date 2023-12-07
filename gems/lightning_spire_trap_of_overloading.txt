@@ -1,19 +1,17 @@
-Lightning Spire Trap
-Trap, Critical, Spell, Duration, AoE, Lightning
+Lightning Spire Trap of Overloading
+Trap, Spell, Duration, AoE, Lightning
 Level: 20 (Max)
-Cost: 25 Mana
-Cooldown Time: 8.00 sec (3 uses)
+Cost: 48 Mana
+Cooldown Time: 10.00 sec
 Cast Time: 1.00 sec
-Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 85%
+Critical Strike Chance: 100.00%
+Effectiveness of Added Damage: 170%
 Quality: +20%
 Requires Level 70, 68 Dex, 98 Int
 Throws a trap which, once triggered, will repeatedly strike multiple areas around it for a duration, dealing lightning damage.
-Deals 238 to 713 Lightning Damage
+Deals 484 to 1453 Lightning Damage
 Trap lasts 4 seconds
 Base duration is 3.50 seconds
-Strikes every 0.36 seconds
-Modifiers to Trap Throwing Speed also apply to strike Frequency
-138% increased Critical Strike Chance against Shocked Enemies
-Strikes 4 Areas
+Strikes every 1.00 seconds
+Strikes 8 Areas
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

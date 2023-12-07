@@ -1,9 +1,9 @@
-Hexblast
+Hexblast of Contradiction
 Spell, AoE, Chaos, Hex
 Level: 20 (Max)
 Cost: 30 Mana
 Cast Time: 1.00 sec
-Critical Strike Chance: 4.00%
+Critical Strike Chance: 6.00%
 Effectiveness of Added Damage: 340%
 Quality: +20%
 Requires Level 70, 155 Int
@@ -12,8 +12,8 @@ Deals 1514 to 2271 Chaos Damage
 This Spell's Cast Time is added to its Cooldown if Triggered
 Base radius is 2.8 metres
 All Damage can Ignite, Freeze, and Shock
-Chaos Damage with Hits is Resisted by lowest Resistance instead
+Chaos Damage with Hits is Resisted by highest Resistance instead
 40% more Damage with Ailments if Enemy is Hexed
-100% more Damage with Hits if Enemy is Hexed
+150% more Damage with Hits if Enemy is Hexed
 90% chance to remove a Hex after Damaging
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

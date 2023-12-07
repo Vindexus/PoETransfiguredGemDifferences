@@ -1,4 +1,4 @@
-Double Strike
+Double Strike of Impaling
 Attack, Melee, Strike, Physical
 Level: 20 (Max)
 Cost: 5 Mana
@@ -8,7 +8,7 @@ Effectiveness of Added Damage: 140%
 Quality: +20%
 Requires Level 70, 155 Dex
 Performs two fast strikes with a melee weapon.
-25% chance to cause Bleeding
-20% chance to deal Double Damage to Bleeding Enemies
-Adds 113 to 169 Physical Damage against Bleeding Enemies
+Killing Blows cause Impales on Enemies to Reflect Damage to surrounding Enemies
+40% chance to Impale Enemies on Hit
+40% increased Impale Effect
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

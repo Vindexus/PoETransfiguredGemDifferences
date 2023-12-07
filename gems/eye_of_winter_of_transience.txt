@@ -1,15 +1,15 @@
-Eye of Winter
+Eye of Winter of Transience
 Spell, Projectile, Cold
 Level: 20 (Max)
 Cost: 26 Mana
 Cast Time: 0.80 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 55%
 Quality: +20%
 Requires Level 70, 155 Int
-Fires a single eye projectile which constantly releases shard projectiles in a spiral. The shards will damage enemies they impact, dealing cold damage. The eye cannot damage enemies. When the eye dissipates or collides with terrain, it releases a faster spiral of extra shards.
-Deals 245 to 367 Cold Damage
-Modifiers to number of Projectiles only apply to the final Spiral
-Fires 10 Shard Projectiles in a Spiral when Projectile ends
-Projectiles continuously gain Damage, up to 200% more Damage by the time they dissipate
+Fires a single eye projectile which releases a number shard projectiles in a spiral before dissipating. The shards will damage enemies they impact, dealing cold damage. The eye cannot damage enemies.
+Deals 458 to 687 Cold Damage
+Modifiers to number of Projectiles only apply to the Shards
+Fires 12 Shard Projectiles in a Spiral while flying, then ends
+50% more Projectile Speed
+Projectiles continuously gain Damage, up to 15% more Damage by the time they dissipate
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

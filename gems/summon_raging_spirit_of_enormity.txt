@@ -1,13 +1,15 @@
-Summon Raging Spirit
+Summon Raging Spirit of Enormity
 Spell, Minion, Duration, Fire
 Level: 20 (Max)
-Cost: 16 Mana
-Cast Time: 0.50 sec
+Cost: 26 Mana
+Cast Time: 0.80 sec
 Quality: +20%
 Requires Level 70, 155 Int
 Summons a short-lived flaming skull that rushes at nearby enemies and attacks them rapidly, converting all its physical damage to fire. Enemies will not directly engage these spirits, and can pass through them.
 Base duration is 5.00 seconds
-Maximum 20 Summoned Raging Spirits
-30% chance to summon an extra Minion
+Maximum 6 Summoned Raging Spirits
+Minions have 88% more Maximum Life
+Minions' Hits are always Critical Strikes
+Minions have +40% to Critical Strike Multiplier
 Minions cannot Taunt Enemies
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,28 +1,14 @@
-Spark
-Spell, Projectile, Duration, Vaal, Lightning
+Spark of Unpredictability
+Spell, Projectile, Duration, Lightning
 Level: 20 (Max)
 Cost: 21 Mana
 Cast Time: 0.65 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 190%
+Effectiveness of Added Damage: 160%
 Quality: +20%
 Requires Level 70, 155 Int
-Continuously launches unpredictable sparks in all directions that move randomly until they hit an enemy or expire.
-Deals 104 to 1983 Lightning Damage
-Base duration is 2.00 seconds
-Fires 10 Projectiles
-Vaal Spark
-Souls Per Use: 30
-Can Store 1 Use
-Soul Gain Prevention: 5 sec
-Cast Time: 0.65 sec
-Critical Strike Chance: 5.00%
-Effectiveness of Added Damage: 40%
-Continuously launches unpredictable sparks in all directions that move randomly until they hit an enemy or expire.
-Deals 24 to 454 Lightning Damage
-Base duration is 2.00 seconds
-Fires +2 Projectiles
-Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
-Fires Projectiles in random directions
-Corrupted
+Launches unpredictable sparks with that move randomly with large differences in speed and distance until they hit an enemy or expire.
+Deals 90 to 1705 Lightning Damage
+Base duration is 2.50 seconds
+Fires 8 Projectiles
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

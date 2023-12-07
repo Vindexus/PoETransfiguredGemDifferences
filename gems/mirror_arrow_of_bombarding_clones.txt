@@ -1,4 +1,4 @@
-Mirror Arrow
+Mirror Arrow of Bombarding Clones
 Attack, Minion, Duration, Movement, Travel, Bow
 Level: 20 (Max)
 Cost: 20 Mana
@@ -6,8 +6,9 @@ Cooldown Time: 3.00 sec
 Attack Damage: 100% of base
 Quality: +20%
 Requires Level 70, 155 Dex
-Fires an arrow at the target destination. When the arrow lands, a clone is summoned. The clone is a minion that uses your bow and quiver.
-Base duration is 3.00 seconds
-87% increased Cooldown Recovery Rate
+Fires an arrow at the target destination. When the arrow lands, a clone is summoned. The clone is a minion that uses your bow and quiver to fire arrows into the air to land around a target.
+Base duration is 20.00 seconds
+Maximum of 3 Clones which use Rain of Arrows
+40% increased Cooldown Recovery Rate
 Minions deal 57% more Damage
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

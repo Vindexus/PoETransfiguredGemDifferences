@@ -1,15 +1,15 @@
-Shield Crush
-Attack, AoE, Physical, Melee
+Shield Crush of the Chieftain
+Attack, AoE, Fire, Melee
 Level: 20 (Max)
-Cost: 8 Mana
-Attack Time: 0.80 sec
+Cost: 10 Mana
+Attack Time: 1.00 sec
 Critical Strike Chance: 5.00%
 Attack Damage: 100% of base
 Quality: +20%
 Requires Level 70, 155 Str
 Swipe your shield, dealing area damage in three waves in front of you. Enemies can be hit by two of the waves where they overlap.
-172 to 258 Base Off Hand Physical Damage
-5 to 7 Added Physical Damage per 15 Armour or Evasion Rating on Shield
-+0.6 metres to radius
+222 to 334 Base Off Hand Fire Damage
+7 to 9 Added Fire Damage per 15 Armour on Shield
 Deals up to 10% more Damage with Hits to closer targets
+Central wave has 88% more Area of Effect
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

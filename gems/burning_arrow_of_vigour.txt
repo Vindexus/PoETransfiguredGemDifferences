@@ -1,14 +1,13 @@
-Burning Arrow
+Burning Arrow of Vigour
 Attack, Projectile, Fire, Bow
 Level: 20 (Max)
 Cost: 12 Mana
 Attack Speed: 70% of base
-Attack Damage: 300% of base
-Effectiveness of Added Damage: 300%
+Attack Damage: 100% of base
 Quality: +20%
 Requires Level 70, 155 Dex
 Fires a burning arrow that deals fire damage and has a chance to ignite.
-Adds 201 to 302 Fire Damage to Attacks against Ignited Enemies
+Deals Added Fire Damage equal to 24% of Maximum Life
 100% of Physical Damage Converted to Fire Damage
 25% chance to Ignite enemies
 20% more Damage with Ignite

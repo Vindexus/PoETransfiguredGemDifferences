@@ -1,15 +1,14 @@
-Caustic Arrow
-Attack, Projectile, AoE, Duration, Chaos, Bow
+Caustic Arrow of Poison
+Attack, Projectile, AoE, Chaos, Bow
 Level: 20 (Max)
 Cost: 10 Mana
-Attack Damage: 64.4% of base
-Effectiveness of Added Damage: 64%
+Attack Damage: 70% of base
+Effectiveness of Added Damage: 70%
 Quality: +20%
 Requires Level 70, 155 Dex
-Fires an arrow which deals chaos damage in an area on impact, and spreads caustic ground. Enemies standing on the caustic ground take chaos damage over time.
-Deals 1927.1 Base Chaos Damage per second
-Base duration is 2.00 seconds
+Fires a poisonous arrow which deals chaos damage in an area on impact.
+113 to 169 Added Chaos Damage
 60% of Physical Damage Converted to Chaos Damage
-Modifiers to Projectile Damage apply to this Skill's Damage Over Time effect
 +0.8 metres to radius
+40% chance to Poison on Hit
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

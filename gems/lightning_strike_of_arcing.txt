@@ -1,13 +1,14 @@
-Lightning Strike
-Attack, Projectile, Melee, Strike, Lightning
+Lightning Strike of Arcing
+Attack, Projectile, Melee, Strike, Lightning, Chaining
 Level: 20 (Max)
 Cost: 6 Mana
-Attack Damage: 225% of base
-Effectiveness of Added Damage: 225%
+Attack Damage: 200% of base
+Effectiveness of Added Damage: 200%
 Quality: +20%
 Requires Level 70, 98 Dex, 68 Int
-Infuses your melee weapon with electrical energies as you swing. In addition to converting some of your physical damage to lightning damage, the stored energy is released from the weapon as projectiles as you strike, flying out to hit farther-away enemies. The projectiles cannot miss if the melee attack hits a target.
+Infuses your melee weapon with electrical energies as you swing. In addition to converting some of your physical damage to lightning damage, the stored energy is released from the weapon as a projectile as you strike, flying out to hit farther-away enemies and chain between them. The projectile cannot miss if the melee attack hit a target.
 50% of Physical Damage Converted to Lightning Damage
 9 to 179 Added Lightning Damage
-Fires 4 Projectiles
+Chains +9 Times
+10% more Damage per Chain
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

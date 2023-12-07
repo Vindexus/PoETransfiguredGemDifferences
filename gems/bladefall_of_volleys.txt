@@ -1,16 +1,14 @@
-Bladefall
-Spell, AoE, Physical, Duration
+Bladefall of Volleys
+Critical, Spell, AoE, Physical
 Level: 20 (Max)
 Cost: 23 Mana
 Cast Time: 0.70 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 140%
 Quality: +20%
 Requires Level 70, 155 Dex
-Ethereal weapons rain from the sky, dealing damage to enemies in a sequence of volleys. Enemies can be hit multiple times where these overlap.
-Deals 595 to 893 Physical Damage
-Base duration is 6.00 seconds
-Leaves a Lingering Blade in the ground for every Volley
-6 Volleys
-Maximum 40 Lingering Blades can be left in the ground at a time
+Ethereal weapons rain from the sky, dealing damage to enemies in a sequence of volleys, each wider and more damaging than the last. Enemies can be hit multiple times where these overlap.
+Deals 446 to 669 Physical Damage
+7 Volleys
+10% more Damage per Volley
+25% increased Critical Strike Chance per Volley
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

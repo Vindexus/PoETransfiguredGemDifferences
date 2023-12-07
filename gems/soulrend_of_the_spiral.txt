@@ -1,17 +1,17 @@
-Soulrend
+Soulrend of the Spiral
 Chaos, Spell, AoE, Duration, Projectile
 Level: 20 (Max)
-Cost: 26 Mana
-Cast Time: 0.80 sec
+Cost: 64 Mana
+Cast Time: 0.90 sec
 Critical Strike Chance: 5.00%
 Effectiveness of Added Damage: 170%
 Quality: +20%
 Requires Level 70, 155 Int
-Fires a projectile that turns towards enemies in front of it, damaging and piercing through those it hits, and leeching some of that damage as energy shield. As the projectile travels, it repeatedly applies a short but powerful chaos damage over time debuff to each enemy in an area around it.
+Fires a series of projectiles in a spiral that turn towards enemies in front of them, damaging and piercing through those they hits, and leeching some of that damage as energy shield. As the projectiles travel, they repeatedly apply a short but powerful chaos damage over time debuff to each enemy in an area around them.
 Deals 885 to 1327 Chaos Damage
 Projectiles Pierce all Targets
 Deals 2642.5 Base Chaos Damage per second
-Base duration is 0.80 seconds
+Base duration is 0.70 seconds
 Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
-4% of Spell Damage Leeched as Energy Shield
+Fires 5 Projectiles in a spiral
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
