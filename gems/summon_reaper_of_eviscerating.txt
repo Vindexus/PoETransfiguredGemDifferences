@@ -1,11 +1,12 @@
-Summon Reaper of Eviscerating
+Summon Reaper
 Physical, Minion, Spell
 Level: 20 (Max)
-Cost: 35 Mana
-Cast Time: 1.00 sec
+Cost: 28 Mana
+Cooldown Time: 4.00 sec
+Cast Time: 0.60 sec
 Quality: +20%
 Requires Level 70, 155 Int
-Summons a powerful Reaper which passively follows you without attacking enemies. The Reaper's presence weakens your other minions, and it will consume them to temporarily empower and heal itself. Using this skill while the Reaper is already summoned causes it to dash to the targeted location and perform a powerful attack. Cannot be triggered, supported by Spell Echo or Unleash, or used by Totems, Traps, or Mines.
+Summons a powerful Reaper which uses a variety of slashing area attacks. The Reaper's presence weakens your other minions, and it will consume them to temporarily empower and heal itself. Using this skill while the Reaper is already summoned causes it to dash to the targeted location and perform a powerful attack.
 Maximum 1 Summoned Reaper
 Minion's Attacks have 70% chance to inflict Bleeding
 Minion deals 87% more Damage with Bleeding

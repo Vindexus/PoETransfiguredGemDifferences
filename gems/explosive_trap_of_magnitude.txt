@@ -1,16 +1,17 @@
-Explosive Trap of Magnitude
-Trap, Spell, AoE, Physical
+Explosive Trap
+Trap, Spell, AoE, Fire, Physical
 Level: 20 (Max)
-Cost: 28 Mana
+Cost: 20 Mana
 Cast Time: 1.00 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 330%
 Quality: +20%
 Requires Level 70, 98 Dex, 68 Int
-Throws a trap that creates a large explosion when triggered, dealing spell damage in an area around it.
-Deals 1478 to 2216 Physical Damage
+Throws a trap that creates an explosion when triggered, dealing spell damage in an area around it. A number of smaller explosions occur within a secondary area around the trap in quick succession after the first.
+Deals 437 to 655 Physical Damage
 Trap lasts 4 seconds
-50% increased Stun Duration on enemies
-Base explosion radius is 2.7 metres
-30% less Trap Throwing Speed
+50% of Physical Damage Converted to Fire Damage
+Base explosion radius is 1.8 metres
+Base secondary radius is 1.8 metres
+Base smaller explosion radius is 1.3 metres
+Causes 9 smaller explosionsSmaller explosions have between 30% reduced and 30% increased base radius at random
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

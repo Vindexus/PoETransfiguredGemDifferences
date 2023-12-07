@@ -1,15 +1,18 @@
-Smite of Divine Judgement
-Lightning, Attack, AoE, Melee, Strike
+Smite
+Lightning, Attack, AoE, Duration, Melee, Strike, Aura
 Level: 20 (Max)
 Cost: 6 Mana
 Attack Speed: 85% of base
-Attack Damage: 250% of base
-Effectiveness of Added Damage: 250%
+Attack Damage: 273% of base
+Effectiveness of Added Damage: 273%
 Quality: +20%
 Requires Level 70, 98 Str, 68 Int
-Performs a melee attack, and causes lightning to strike nearby enemies, dealing damage in an area. Each target can only be hit once by this skill. Requires a Sword, Axe, Mace, Sceptre, Staff or Unarmed.
+Performs a melee attack, and causes lightning to strike a targeted location or nearby enemy, dealing damage in an area. Each target can only be hit once by this skill. Hitting an enemy grants an aura, giving you and your allies additional lightning damage for a duration. Requires a Sword, Axe, Mace, Sceptre, Staff or Unarmed.
 50% of Physical Damage Converted to Lightning Damage
-38% more Area Damage
-Base radius is 2.1 metres
-Lightning strikes 3 targets within 7 metres
+Base duration is 4.00 seconds
++0.6 metres to radius
+10% less Area Damage
+Lightning strikes 1 target
+Aura grants 12 to 220 added Lightning Damage
+Aura grants 19% chance to Shock
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

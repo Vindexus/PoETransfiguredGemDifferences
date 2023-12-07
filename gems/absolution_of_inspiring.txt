@@ -1,4 +1,4 @@
-Absolution of Inspiring
+Absolution
 Spell, Minion, Duration, Physical, Lightning, AoE
 Level: 20 (Max)
 Cost: 26 Mana
@@ -7,13 +7,12 @@ Critical Strike Chance: 6.00%
 Effectiveness of Added Damage: 200%
 Quality: +20%
 Requires Level 70, 98 Str, 68 Int
-Damages enemies in an area, applying a debuff for a short duration. If a non-unique enemy dies while affected by the debuff, the corpse will be consumed to summon a Sentinel of Absolution for a secondary duration, or to refresh the duration and life of an existing one instead if you have the maximum number of them.
+Causes one of your existing Sentinels of Absolution to Ascend, becoming more powerful, gaining new spells, and overriding its duration, while maintaining its other bonuses, including from support gems. If you cannot have more Ascended Sentinels of Absolution, an existing one will be refreshed instead.
 Deals 873 to 1310 Physical Damage
 Base duration is 1.00 seconds
 Base secondary duration is 10.00 seconds
-Increases and Reductions to Minion Damage also applyto this Skill's Damage at 250% of their value
 +0.6 metres to radius
 25% chance to Summon a Sentinel of Absolution on Hitting a Rare or Unique Enemy
-Maximum 2 Summoned Sentinels of Absolution
+Maximum 3 Summoned Sentinels of Absolution
+Minions have 40% increased Cooldown Recovery Rate
 This Spell and Minions Convert 50% of Physical Damage to Lightning Damage
-Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

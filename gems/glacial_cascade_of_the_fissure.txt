@@ -1,14 +1,16 @@
-Glacial Cascade of the Fissure
+Glacial Cascade
 Spell, AoE, Cold, Physical
 Level: 20 (Max)
 Cost: 20 Mana
 Cast Time: 0.60 sec
 Critical Strike Chance: 5.00%
-Effectiveness of Added Damage: 130%
+Effectiveness of Added Damage: 65%
 Quality: +20%
 Requires Level 70, 155 Int
-Icicles emerge from the ground in a series of small bursts, each damaging enemies caught in the area.
-Deals 568 to 852 Physical Damage
+Icicles emerge from the ground in a series of small bursts, each damaging enemies caught in the area and knocking them back in the direction of the next burst.
+Deals 300 to 450 Physical Damage
+Knocks Enemies Back on Hit
 100% of Physical Damage Converted to Cold Damage
-Causes 8 Bursts
+Cannot Knockback Unique Enemies more than once per secondFinal Burst Deals 250% more DamageFinal Burst has 100% more Area of EffectFinal Burst cannot Knockback
+Causes 4 Bursts
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

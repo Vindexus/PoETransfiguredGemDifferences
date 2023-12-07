@@ -1,18 +1,16 @@
-Lightning Tendrils of Eccentricity
+Lightning Tendrils
 Critical, Spell, AoE, Lightning, Channelling
 Level: 20 (Max)
 Cost: 5 Mana
 Cast Time: 0.23 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 60%
+Effectiveness of Added Damage: 130%
 Quality: +20%
 Requires Level 70, 155 Int
 While you channel this skill, it releases pulses of electrical energy, dealing lightning damage in a semicircular area in front of you.
-Deals 33 to 629 Lightning Damage
+Deals 75 to 1420 Lightning Damage
 +0.7 metres to radius
 +40% to Critical Strike Multiplier
-Releases a Stronger Pulse every 6 PulsesStronger Pulses always Critically Strike
+Releases a Stronger Pulse every 3 PulsesStronger Pulses always Critically Strike
 Base radius is 2.4 metres
-Stronger Pulses have 150% more Area of Effect
-Stronger Pulses deal 500% more Damage with Hits and Ailments
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

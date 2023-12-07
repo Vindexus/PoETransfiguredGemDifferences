@@ -1,8 +1,8 @@
-Holy Flame Totem of Ire
+Holy Flame Totem
 Totem, Spell, Projectile, Fire, Channelling, Physical
 Level: 20 (Max)
 Cost: 39 Mana
-Cast Time: 0.18 sec
+Cast Time: 0.25 sec
 Critical Strike Chance: 5.00%
 Effectiveness of Added Damage: 35%
 Quality: +20%
@@ -11,9 +11,9 @@ Summons a totem that channels to fire a stream of flame at nearby enemies, and c
 Deals 153 to 230 Physical Damage
 Projectiles Pierce all Targets
 Totem lasts 8 seconds
-Modifiers to number of Projectiles do not apply to this Skill
+Fires 3 Projectiles
 50% of Physical Damage Converted to Fire Damage
 Summons a Totem which uses this Skill
-128% more Projectile Speed
+40% increased Projectile Speed
 Consecrated Ground grants Immunity to Curses to you and Allies
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

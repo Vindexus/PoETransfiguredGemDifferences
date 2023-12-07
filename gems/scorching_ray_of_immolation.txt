@@ -1,14 +1,15 @@
-Scorching Ray of Immolation
+Scorching Ray
 Spell, Fire, Duration, Channelling
 Level: 20 (Max)
 Cost: 5 Mana
-Cast Time: 0.18 sec
+Cast Time: 0.25 sec
 Quality: +20%
 Requires Level 70, 155 Int
-Unleash a beam of fire that burns enemies it touches. Remaining in the beam raises the burning, adding a portion of the beam's damage in stages. Enemies who leave the beam continue to burn for a duration. Increasing cast speed also increases the rate at which the beam turns.
-Deals 1893.9 Base Fire Damage per second
-Base duration is 3.00 seconds
+Unleash a beam of fire that burns enemies it touches. Remaining in the beam intensifies the burning, adding a portion of the beam's damage in stages. Inflicts Fire Exposure at maximum stages. Enemies who leave the beam continue to burn for a duration. Increasing cast speed also increases the rate at which the beam can turn.
+Deals 780.7 Base Fire Damage per second
+Base duration is 1.50 seconds
 Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
 Burning Debuff can have a maximum of 8 stages
-Additional Debuff stages add 14% of Damage
+Additional Debuff stages add 70% of Damage
+Fire Exposure applies -25% to Fire Resistance
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,12 +1,13 @@
-Summon Flame Golem of the Meteor
+Summon Flame Golem
 Fire, Minion, Spell, Golem
 Level: 20 (Max)
 Cost: 54 Mana
-Cooldown Time: 2.00 sec
+Cooldown Time: 6.00 sec
 Cast Time: 1.00 sec
 Quality: +20%
 Requires Level 70, 98 Str, 68 Int
-Summons a Flame Golem. When summoned, the Flame Golem attacks by falling from the sky, dealing fire damage in an area and leaving burning ground around the impact. After landing, it can cast a fire spray and a wave of fire damage.
+Summons a Flame Golem that grants you increased Damage. The Flame Golem can use a fire spray, a wave of fire damage, and an explosive arcing projectile.
 Maximum 1 Summoned Golem
-40% increased Cooldown Recovery Rate
+Golems Grant 20% increased Damage
+20% increased Buff Effect
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

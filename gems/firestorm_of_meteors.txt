@@ -1,13 +1,18 @@
-Firestorm of Meteors
-Spell, AoE, Fire
+Firestorm
+Spell, AoE, Duration, Fire
 Level: 20 (Max)
 Cost: 25 Mana
 Cast Time: 0.75 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 370%
+Effectiveness of Added Damage: 80%
 Quality: +20%
 Requires Level 70, 155 Int
-A large flaming bolt falls towards the targeted area. The bolt explodes when landing, dealing damage to nearby enemies.
-Deals 1658 to 2487 Fire Damage
-Base radius is 2.5 metres
+Flaming bolts rain down over the targeted area. They explode when landing, dealing damage to nearby enemies.
+Base duration is 1.40 seconds
+Deals 361 to 541 Fire Damage
+One impact every 0.15 seconds
+Base radius is 1.5 metres
+First Impact has 100% more Area of Effect
+First Impact deals 325% more Damage with Hits and Ailments
+Maximum 3 Firestorms at a time
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

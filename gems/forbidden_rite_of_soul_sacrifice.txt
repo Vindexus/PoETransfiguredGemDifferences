@@ -1,15 +1,16 @@
-Forbidden Rite of Soul Sacrifice
+Forbidden Rite
 Spell, AoE, Chaos, Projectile
 Level: 20 (Max)
-Cost: 45 Life
+Cost: 21 Mana
 Cast Time: 0.75 sec
 Critical Strike Chance: 6.00%
 Effectiveness of Added Damage: 110%
 Quality: +20%
 Requires Level 70, 155 Int
-Lobs an exploding projectile near the targeted location, and extra projectiles toward enemies around you. The projectiles deal chaos damage based on your energy shield. Casting this spell damages you.
+Lobs an exploding projectile near the targeted location, and extra projectiles toward enemies around you. The projectiles deal chaos damage based on your life and energy shield. Casting this spell damages you.
 Deals 498 to 747 Chaos Damage
-Deals 15% of your maximum Energy Shield as base Chaos Damage
-Take 40% of maximum Energy Shield as Chaos Damage
+Deals 5% of your maximum Energy Shield as base Chaos Damage
+Deals 12% of your maximum Life as base Chaos Damage
+Take 40% of maximum Life and 25% of maximum Energy Shield as Chaos Damage
 Fires extra Projectiles at up to 9 surrounding Enemies
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,19 +1,18 @@
-Splitting Steel of Ammunition
+Splitting Steel
 Attack, Projectile, AoE, Physical
 Level: 20 (Max)
 Cost: 8 Mana
+Attack Speed: 90% of base
 Attack Damage: 210% of base
 Effectiveness of Added Damage: 210%
 Quality: +20%
 Requires Level 70, 68 Str, 98 Dex
-Consume Steel Shards to fire a single projectile that splits on impact or at the targeted location, dealing area damage when it splits and again when the split projectiles explode at the end of their flight. Requires a Sword or Axe. Steel Shards are gained with the Call of Steel Skill.
+Fire a single projectile that splits on impact or at the targeted location, dealing area damage when it splits and again when the split projectiles explode at the end of their flight. Requires a Sword or Axe.
 101 to 151 Added Attack Physical Damage
 Modifiers to number of Projectiles instead apply tothe number of targets Projectile Splits towards
-Projectiles Split towards 7 targets
-Base radius is 1.6 metres
-If you have no Steel Shards, Projectile counts as already having Split
-60% chance to Impale Enemies on Hit
+Projectiles Split towards 5 targets
+Base radius is 1 metre
+40% chance to Impale Enemies on Hit
 40% increased Impale Effect
 Projectiles can Split without hitting a target
-Consumes up to 2 Steel Shards
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

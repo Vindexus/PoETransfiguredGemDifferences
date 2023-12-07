@@ -18,7 +18,7 @@
 				mod.classList.add('added-new-line')
 			}
 		})
-		const lines = popup.innerText.split('\n').map(x => x.trim()).filter(x => !!x)
+		let lines = popup.innerText.split('\n').map(x => x.trim()).filter(x => !!x)
 		const name = lines[0]
 
 		// Skip supports
@@ -26,13 +26,21 @@
 			return
 		}
 
-		const text = lines.join('\n')
-		if (gems[name]) {
-			console.log('already exists', name)
-			if (gems[name] === text) {
-				console.log('text is the same so it okay')
-			}
+		// Strip out Vaal Versions
+		if (lines[1].indexOf('Vaal') >= 0) {
+			console.log('----', name)
+			console.log('Found Vaal in ', lines[1])
+			lines[1] = lines[1].replace(', Vaal', '')
+
+			const startIndex = lines.findIndex(x => x.substring(0, 4) === 'Vaal')
+			console.log('startIndex', startIndex)
+			console.log('startIndex')
+			console.log('lines before', lines)
+			lines.length = startIndex
+			console.log('lines after', lines)
 		}
+
+		const text = lines.join('\n')
 		gems[name] = text
 	})
 

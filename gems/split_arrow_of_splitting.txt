@@ -1,13 +1,13 @@
-Split Arrow of Splitting
-Attack, Projectile, Bow
+Split Arrow
+Attack, Projectile, Physical, Bow
 Level: 20 (Max)
-Cost: 11 Mana
-Attack Damage: 160% of base
-Effectiveness of Added Damage: 160%
+Cost: 10 Mana
+Attack Speed: 110% of base
+Attack Damage: 119% of base
+Effectiveness of Added Damage: 119%
 Quality: +20%
 Requires Level 70, 155 Dex
-Fires an arrow that splits to hit different targets.
-Modifiers to number of Projectiles instead apply tothe number of targets Projectile Splits towards
-Projectiles Split towards 8 targets
-Projectiles can Split without hitting a target
+Fires multiple arrows at different targets.
+56 to 85 Added Attack Physical Damage
+Fires 13 Arrows
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

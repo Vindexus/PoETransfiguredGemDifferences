@@ -1,17 +1,17 @@
-Purifying Flame of Revelations
+Purifying Flame
 Fire, Spell, AoE, Duration, Physical
 Level: 20 (Max)
 Cost: 25 Mana
 Cast Time: 0.70 sec
 Critical Strike Chance: 5.50%
-Effectiveness of Added Damage: 200%
+Effectiveness of Added Damage: 300%
 Quality: +20%
 Requires Level 70, 68 Str, 98 Int
 A wave of divine fire deals damage in a line, then creates Consecrated Ground and deals damage in an area around the targeted location. A larger shockwave then expands outwards, damaging enemies standing on Consecrated Ground that were not already hit.
-Deals 860 to 1291 Physical Damage
+Deals 1324 to 1986 Physical Damage
 Base duration is 4.00 seconds
 50% of Physical Damage Converted to Fire Damage
-+0.2 metres to radius
-+0.6 metres to radius of Consecrated Ground
-Shockwave deals 110% more Damage
++0.4 metres to radius
++0.9 metres to radius of Consecrated Ground
+Shockwave deals 25% less Damage
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

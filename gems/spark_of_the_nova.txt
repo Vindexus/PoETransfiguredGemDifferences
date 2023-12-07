@@ -1,15 +1,13 @@
-Spark of the Nova
+Spark
 Spell, Projectile, Duration, Lightning
 Level: 20 (Max)
-Cost: 25 Mana
-Cast Time: 0.75 sec
+Cost: 21 Mana
+Cast Time: 0.65 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 200%
+Effectiveness of Added Damage: 190%
 Quality: +20%
 Requires Level 70, 155 Int
-Launches unpredictable sparks in all directions that move randomly until they hit an enemy or expire.
-Deals 111 to 2113 Lightning Damage
+Continuously launches unpredictable sparks in all directions that move randomly until they hit an enemy or expire.
+Deals 104 to 1983 Lightning Damage
 Base duration is 2.00 seconds
-Fires 14 Projectiles
-Fires Projectiles in a circle
-Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
+Fires 10 Projectiles

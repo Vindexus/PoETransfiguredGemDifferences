@@ -1,15 +1,15 @@
-Bladestorm of Uncertainty
+Bladestorm
 Attack, AoE, Duration, Melee
 Level: 20 (Max)
 Cost: 8 Mana
 Attack Speed: 70% of base
-Attack Damage: 180% of base
-Effectiveness of Added Damage: 180%
+Attack Damage: 150% of base
+Effectiveness of Added Damage: 150%
 Quality: +20%
 Requires Level 70, 98 Str, 68 Dex
-Perform a spinning attack, damaging enemies around you and creating a random bladestorm. The bladestorm repeatedly damages enemies, based on your weapon damage and attack time, for a duration. Blood bladestorms are stationary and cause Bleeding, while Sand bladestorms move slowly forwards and Blind enemies. Requires a Sword or Axe.
+Perform a spinning attack, damaging enemies around you and creating a bladestorm matching your stance. The bladestorm repeatedly damages enemies, based on your weapon damage and attack time, for a duration. Blood bladestorms are stationary and cause Bleeding, while Sand bladestorms move slowly forwards and Blind enemies. Requires a Sword or Axe. You are in Blood Stance by default.
 Base duration is 3.00 seconds
-88% more Damage with Bleeding
+108% more Damage with Bleeding while in Blood Stance
 12% more Attack Speed while you're in a Blood Bladestorm
 Maximum of 4 Bladestorms at a time
 Sand Bladestorms grant 38% increased Movement Speed to you

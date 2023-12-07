@@ -1,17 +1,15 @@
-Raise Spectre of Transience
-Spell, Minion, Duration
+Raise Spectre
+Spell, Minion
 Level: 20 (Max)
-Cost: 23 Mana
-Cast Time: 0.70 sec
+Cost: 28 Mana
+Cast Time: 0.85 sec
 Quality: +20%
 Requires Level 70, 155 Int
-Raises a spectral version of a defeated foe as a temporary minion to fight for you in battle for a duration.
-Spectres have a Base Duration of 30 seconds
-Maximum 5 Raised Spectres
-Minions have +30% to all Elemental Resistances
+Raises a spectral version of a defeated foe as a minion to fight for you in battle.
+Maximum 2 Raised Spectres
+Minions have +50% to all Elemental Resistances
 55% more Minion Movement Speed
 Minion Movement Speed is Capped
-Minions have 1000% increased Critical Strike Chance
 Raised Spectres are Level 70
 Minions have 776 additional Accuracy Rating
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

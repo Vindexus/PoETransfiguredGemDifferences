@@ -1,18 +1,16 @@
-Siege Ballista of Splintering
+Siege Ballista
 Attack, Projectile, Totem, Bow
 Level: 20 (Max)
 Cost: 11 Mana
 Attack Speed: 50% of base
-Attack Damage: 130% of base
-Effectiveness of Added Damage: 130%
+Attack Damage: 145% of base
+Effectiveness of Added Damage: 145%
 Quality: +20%
 Requires Level 70, 155 Dex
-Summons a ballista totem that attacks with forking arrows.
-Requires a Bow.
+Summons a ballista totem that attacks with piercing arrows. Requires a Bow.
+Arrows Pierce 9 additional Targets
 +3 to maximum number of Summoned Totems
 Totem lasts 8 seconds
-Projectiles Fork
-Projectiles can Fork 1 additional Time
 Summons a Ballista Totem which uses this Skill
-Projectiles have 40% chance for an additional Projectile when Forking
+5% increased Attack Speed per maximum Totem
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

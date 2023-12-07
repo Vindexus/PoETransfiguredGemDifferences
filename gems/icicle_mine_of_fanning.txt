@@ -1,18 +1,19 @@
-Icicle Mine of Fanning
+Icicle Mine
 Mine, Critical, Spell, Projectile, Cold, Aura, AoE
 Level: 20 (Max)
 Cost: 6 Mana
 Reservation: 6 Mana
 Cast Time: 0.75 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 130%
+Effectiveness of Added Damage: 110%
 Quality: +20%
 Requires Level 70, 68 Dex, 98 Int
-Throws a mine that fires projectiles at enemies when detonated. These projectiles quickly dissipate as they travel, before disappearing.
-Deals 591 to 886 Cold Damage
+Throws a mine that fires projectiles around it when detonated. These projectiles quickly dissipate as they travel, before disappearing.
+Deals 514 to 771 Cold Damage
 Mine lasts 5 seconds
 Base Mine Detonation Time is 0.30 seconds
-Fires 5 Projectiles
+Fires 7 Projectiles
+Fires Projectiles in a circle
 Fires an additional Projectile for every 2 prior Mines in Detonation Sequence
 Each Mine applies 10% increased Critical Strike Chance to Hits against Enemies near it, up to a maximum of 500%
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

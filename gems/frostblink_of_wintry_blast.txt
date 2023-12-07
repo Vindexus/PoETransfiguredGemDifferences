@@ -1,16 +1,17 @@
-Frostblink of Wintry Blast
-Spell, Movement, Cold, Travel, AoE
+Frostblink
+Spell, Movement, Duration, Cold, Travel, Blink, AoE
 Level: 20 (Max)
-Cost: 30 Mana
-Cast Time: 0.85 sec
+Cost: 22 Mana
+Cooldown Time: 2.60 sec
+Cast Time: Instant
 Critical Strike Chance: 5.00%
 Effectiveness of Added Damage: 180%
 Quality: +20%
 Requires Level 70, 155 Int
-Teleport to a location, damaging enemies in an area at both ends of the teleport. Deals higher damage to chilled enemies, then removes chill from them. Cannot be supported by Unleash.
+Teleport to a location, damaging enemies and leaving Chilled ground in an area at both ends of the teleport. Shares a cooldown with other Blink skills.
 Deals 1144 to 1716 Cold Damage
+Base duration is 3.00 seconds
 +0.3 metres to radius
-Cannot inflict Chill
-19% more Damage with Hits per 5% Chill Effect on Enemy
-Removes Chill after Damaging
+19% increased Cooldown Recovery Rate for each Normal or Magic Enemy in Area99% increased Cooldown Recovery Rate for each Rare or Unique Enemy in Area
+48% increased maximum travel distance
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

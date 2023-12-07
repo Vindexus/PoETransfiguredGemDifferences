@@ -1,17 +1,18 @@
-Pyroclast Mine of Sabotage
+Pyroclast Mine
 Mine, Spell, Projectile, Fire, AoE, Aura, Nova
 Level: 20 (Max)
 Cost: 6 Mana
-Reservation: 24 Mana
+Reservation: 6 Mana
 Cast Time: 0.18 sec
 Critical Strike Chance: 5.50%
+Effectiveness of Added Damage: 80%
 Quality: +20%
 Requires Level 70, 68 Dex, 98 Int
 Throws a mine that deals damage in an area when detonated, then launches fiery projectiles that rain down around it, each exploding to deal damage in a smaller area.
 Mine lasts 5 seconds
-Deals 62 to 94 Fire Damage
+Deals 240 to 361 Fire Damage
 Base Mine Detonation Time is 0.35 seconds
 Fires 4 Projectiles
 Fires an additional Projectile for every 4 prior Mines in Detonation Sequence
-Each Mine Adds 37 to 56 Fire Damage to Hits against Enemies near it, upto a maximum of 1249 to 1873
+Each Mine Adds 12 to 18 Fire Damage to Hits against Enemies near it, upto a maximum of 601 to 901
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,16 +1,16 @@
-Bladefall of Impaling
-Critical, Spell, AoE, Physical
+Bladefall
+Spell, AoE, Physical, Duration
 Level: 20 (Max)
 Cost: 23 Mana
 Cast Time: 0.70 sec
-Critical Strike Chance: 10.00%
+Critical Strike Chance: 6.00%
 Effectiveness of Added Damage: 140%
 Quality: +20%
 Requires Level 70, 155 Dex
 Ethereal weapons rain from the sky, dealing damage to enemies in a sequence of volleys. Enemies can be hit multiple times where these overlap.
 Deals 595 to 893 Physical Damage
-5 Volleys
-Critical Strikes do not deal extra Damage
-147% increased Impale Effect
-Critical Strikes Impale Enemies on Hit
+Base duration is 6.00 seconds
+Leaves a Lingering Blade in the ground for every Volley
+6 Volleys
+Maximum 40 Lingering Blades can be left in the ground at a time
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

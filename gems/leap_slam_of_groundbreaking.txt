@@ -1,14 +1,14 @@
-Leap Slam of Groundbreaking
+Leap Slam
 Attack, AoE, Movement, Travel, Slam, Melee
 Level: 20 (Max)
 Cost: 10 Mana
-Attack Speed: 70% of base
-Attack Damage: 320% of base
-Effectiveness of Added Damage: 320%
+Attack Damage: 150% of base
+Effectiveness of Added Damage: 150%
 Quality: +20%
 Requires Level 70, 155 Str
-Jump a short distance through the air, damaging and knocking back enemies with your weapon where you land. Enemies you would land on are pushed out of the way. Requires an Axe, Mace, Sceptre, Sword or Staff. Cannot be supported by Multistrike.
+Jump into the air, damaging and knocking back enemies with your weapon where you land. Enemies you would land on are pushed out of the way. Requires an Axe, Mace, Sceptre, Sword or Staff. Cannot be supported by Multistrike.
 79% increased Stun Duration against Enemies that are on Full Life
-Base radius is 2.5 metres
++0.55 seconds to Attack Time
+Base radius is 1.5 metres
 Damaging Hits always Stun Enemies that are on Full Life
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
