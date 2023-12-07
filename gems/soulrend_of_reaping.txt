@@ -1,17 +1,14 @@
-Soulrend
-Chaos, Spell, AoE, Duration, Projectile
+Soulrend of Reaping
+Chaos, Spell, Projectile
 Level: 20 (Max)
 Cost: 26 Mana
 Cast Time: 0.80 sec
-Critical Strike Chance: 5.00%
-Effectiveness of Added Damage: 170%
+Critical Strike Chance: 7.00%
+Effectiveness of Added Damage: 400%
 Quality: +20%
 Requires Level 70, 155 Int
-Fires a projectile that turns towards enemies in front of it, damaging and piercing through those it hits, and leeching some of that damage as energy shield. As the projectile travels, it repeatedly applies a short but powerful chaos damage over time debuff to each enemy in an area around it.
-Deals 885 to 1327 Chaos Damage
-Projectiles Pierce all Targets
-Deals 2642.5 Base Chaos Damage per second
-Base duration is 0.80 seconds
-Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+Fires a projectile that deals chaos damage to enemies it hits and leeches some of that damage as energy shield.
+Deals 1784 to 2676 Chaos Damage
+40% increased Projectile Speed
 4% of Spell Damage Leeched as Energy Shield
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

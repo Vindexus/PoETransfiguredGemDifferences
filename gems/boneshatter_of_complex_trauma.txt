@@ -1,4 +1,4 @@
-Boneshatter
+Boneshatter of Complex Trauma
 Attack, Melee, Strike, AoE, Duration, Physical
 Level: 20 (Max)
 Cost: 5 Mana
@@ -10,7 +10,8 @@ Requires Level 70, 155 Str
 Attack enemies with a forceful melee strike that also hurts you. Successive uses will raise the damage dealt both to enemies and you. Stunning an enemy with the strike releases a damaging pulse. Requires a Mace, Sceptre, Axe or Staff.
 158 to 238 Added Attack Physical Damage
 +0.2 metres to Melee Strike Range
-Gain 1 Trauma the first time this Attack Hits an EnemyTake 194 Physical Damage per Trauma when you gain TraumaTrauma lasts 6.0 seconds
-5% more Damage per Trauma
+Lose all Trauma on reaching 10 Trauma
+Gain 1 Trauma the first time this Attack Hits an EnemyTake 497 Physical Damage per Trauma when you gain TraumaTrauma lasts 6.0 seconds
+20% more Damage per Trauma
 Pulse has 15% increased Area of Effect per 0.1s of Stun Duration, up to 400%
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,15 +1,14 @@
-Summon Reaper
-Physical, Minion, Spell
+Summon Reaper of Revenants
+Minion, Spell
 Level: 20 (Max)
 Cost: 28 Mana
-Cooldown Time: 4.00 sec
-Cast Time: 0.60 sec
+Cast Time: 0.85 sec
 Quality: +20%
 Requires Level 70, 155 Int
-Summons a powerful Reaper which uses a variety of slashing area attacks. The Reaper's presence weakens your other minions, and it will consume them to temporarily empower and heal itself. Using this skill while the Reaper is already summoned causes it to dash to the targeted location and perform a powerful attack.
-Maximum 1 Summoned Reaper
-Minion's Attacks have 70% chance to inflict Bleeding
-Minion deals 87% more Damage with Bleeding
-Reaper causes your Non-Reaper Minions to deal 29% less Damage
-Reaper causes your Non-Reaper Minions to have 29% less Maximum Life
+Summons a Reaper which uses a variety of slashing area attacks. The presence of any Reapers weakens your other non-Reaper minions, and Reapers will consume them to temporarily empower and heal themselves.
+Maximum 3 Summoned Reapers
+40% increased Minion Movement Speed
+Minions deal 30% less Damage
+Reapers cause your Non-Reaper Minions to deal 29% less Damage
+Reapers cause your Non-Reaper Minions to have 29% less Maximum Life
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

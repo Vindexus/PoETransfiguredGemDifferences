@@ -1,14 +1,14 @@
-Cleave
-Attack, AoE, Physical, Duration, Melee
+Cleave of Rage
+Attack, AoE, Melee
 Level: 20 (Max)
 Cost: 6 Mana
 Attack Speed: 80% of base
-Attack Damage: 237% of base
-Effectiveness of Added Damage: 237%
+Attack Damage: 300% of base
+Effectiveness of Added Damage: 300%
 Quality: +20%
 Requires Level 70, 98 Str, 68 Dex
-The character swings their weapon (or both weapons if dual wielding) in an arc, damaging monsters in an area in front of them. Killing Blows on Rare or Unique enemies grant a buff that improves Cleave for a duration. Killing Blows on Rare Enemies also steal their modifiers for a secondary duration. Only works with Axes and Swords.
+The character swings both their weapons in an arc, damaging monsters in an area in front of them. Requires dual wielding both an Axe and a Sword.
 When Dual Wielding, Deals 60% Damage from each Weapon combined
-75 to 113 Added Attack Physical Damage
-+1 metre to radius
-+0.1 metres to radius per Nearby Enemy, up to a maximum of +1 metre
++0.1 metres to Radius per 3 Rage
+Gain 2 Rage if this Skill Hits any Enemies
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

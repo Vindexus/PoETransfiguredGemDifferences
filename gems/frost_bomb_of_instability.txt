@@ -1,19 +1,14 @@
-Frost Bomb
-Spell, AoE, Duration, Cold, Orb
+Frost Bomb of Instability
+Spell, AoE, Duration, Cold
 Level: 20 (Max)
-Cost: 16 Mana
-Cooldown Time: 2.50 sec
-Cast Time: 0.50 sec
+Cost: 24 Mana
+Cast Time: 0.70 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 310%
+Effectiveness of Added Damage: 260%
 Quality: +20%
 Requires Level 70, 155 Int
-Creates a crystal that pulses with cold for a duration. Each pulse applies a debuff to nearby enemies for a secondary duration which reduces life regeneration rate, and also inflicts Cold Exposure. When the crystal's duration ends, it explodes, dealing heavy cold damage to enemies around it.
-Deals 1391 to 2086 Cold Damage
-Base duration is 2.00 seconds
-Base secondary duration is 5.00 seconds
-75% reduced Life Regeneration rate
-Base radius is 3.1 metres
-20% increased Cooldown Recovery Rate
-Cold Exposure applies -15% to Cold Resistance
+Creates a crystal which lasts for a duration. When the crystal's duration ends, it explodes, dealing cold damage to enemies around it.
+Deals 1178 to 1766 Cold Damage
+Base duration is 1.50 seconds
+Base radius is 2.6 metres
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

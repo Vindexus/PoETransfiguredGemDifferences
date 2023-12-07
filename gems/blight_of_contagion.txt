@@ -1,16 +1,16 @@
-Blight
+Blight of Contagion
 Spell, Chaos, AoE, Channelling, Duration
 Level: 20 (Max)
 Cost: 5 Mana
-Cast Time: 0.30 sec
+Cast Time: 0.25 sec
 Quality: +20%
 Requires Level 70, 155 Int
-Apply a debuff to enemies in front of you which deals chaos damage over time. Enemies who aren't already debuffed by Blight are also hindered for a shorter secondary duration, slowing their movement. Continued channelling adds layers of damage to the debuff, each with their own duration.
-Deals 284 Base Chaos Damage per second
-Base duration is 2.80 seconds
+Apply a debuff to enemies in front of you which deals chaos damage over time. Enemies who aren't already debuffed by Blight are also hindered for a shorter secondary duration, slowing their movement. Continued channelling adds layers of damage to the debuff, each with their own duration. The damaging debuff is spread by Contagion.
+Deals 612.2 Base Chaos Damage per second
+Base duration is 5.00 seconds
 Base secondary duration is 1.00 seconds
 Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
 +0.6 metres to radius
 80% reduced Movement Speed
-Debuff can have up to 20 layers of Damage
+Debuff can have up to 5 layers of Damage
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

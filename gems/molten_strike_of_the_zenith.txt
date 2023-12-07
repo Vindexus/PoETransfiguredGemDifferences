@@ -1,14 +1,17 @@
-Molten Strike
-Attack, Projectile, AoE, Melee, Strike, Fire, Chaining
+Molten Strike of the Zenith
+Attack, Projectile, AoE, Melee, Strike, Fire
 Level: 20 (Max)
-Cost: 6 Mana
-Attack Damage: 185% of base
-Effectiveness of Added Damage: 185%
+Cost: 10 Mana
+Attack Speed: 80% of base
+Attack Damage: 130% of base
+Effectiveness of Added Damage: 130%
 Quality: +20%
 Requires Level 70, 155 Str
-Infuses your melee weapon with molten energies to attack with physical and fire damage. This attack causes balls of molten magma to launch forth causing area attack damage to enemies where they land.
-75 to 113 Added Fire Damage
-Fires 4 Projectiles
+Infuses your two-handed melee weapon with molten energies to attack with physical and fire damage. This attack causes balls of molten magma to launch forth from the enemies you hit, divided amongst all enemies hit by the strike. These will deal area attack damage to enemies where they land. Every fifth time you attack with this skill it fires more, high-damage projectiles.
+Fires 3 Projectiles
 60% of Physical Damage Converted to Fire Damage
 +0.6 metres to Melee Strike Range
-Projectiles deal 40% less Damage with Hits and Ailments
+Projectiles deal 50% less Damage with Hits and Ailments
+Every fifth Attack fires 5 additional Projectiles
+Every fifth Attack, Projectiles deal 1000% more Damage with Hits and Ailments
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

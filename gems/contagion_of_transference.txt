@@ -1,14 +1,14 @@
-Contagion
+Contagion of Transference
 Spell, AoE, Duration, Chaos
 Level: 20 (Max)
-Cost: 20 Mana
-Cast Time: 0.60 sec
+Cost: 32 Mana
+Cast Time: 0.85 sec
 Quality: +20%
 Requires Level 70, 68 Dex, 98 Int
-Unleashes a vile contagion on enemies, dealing chaos damage over time. If an enemy dies while affected by Contagion, the debuff spreads to other enemies.
-Deals 235.9 Base Chaos Damage per second
+Unleashes a vile contagion on enemies, dealing chaos damage over time. If an enemy is hit while affected by Contagion, the debuff spreads to other enemies.
+Deals 686.9 Base Chaos Damage per second
 Base duration is 5.00 seconds
 Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
-Base radius is 1.9 metres
-Spreads when affected Enemy dies
+Base radius is 2.2 metres
+Spreads when affected Enemy is Hit
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

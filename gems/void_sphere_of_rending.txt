@@ -1,19 +1,17 @@
-Void Sphere
+Void Sphere of Rending
 Spell, AoE, Duration, Physical, Chaos, Orb
 Level: 20 (Max)
-Cost: 54 Mana
-Cooldown Time: 10.00 sec
+Cost: 26 Mana
 Cast Time: 0.80 sec
 Critical Strike Chance: 5.00%
-Effectiveness of Added Damage: 75%
+Effectiveness of Added Damage: 190%
 Quality: +20%
 Requires Level 70, 155 Int
 Creates a Void Sphere which Hinders enemies in an area around it, with the debuff being stronger on enemies closer to the sphere. It also regularly releases pulses of area damage. The Void Sphere will consume the corpses of any enemies which die in its area. Can only have one Void Sphere at a time.
-Deals 344 to 516 Physical Damage
-Base duration is 5.00 seconds
+Deals 860 to 1290 Physical Damage
+Base duration is 2.00 seconds
 Pulses every 0.40 seconds
 40% of Physical Damage Converted to Chaos Damage
-Base radius is 3.8 metres
-20% increased Cooldown Recovery Rate
+Base radius is 2.4 metres
 Enemies in range are Hindered, with up to 39% reduced Movement Speed, based on distance from the Void Sphere
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
