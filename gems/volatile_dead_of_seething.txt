@@ -1,0 +1,18 @@
+Volatile Dead
+Spell, AoE, Fire
+Level: 20 (Max)
+Cost: 26 Mana
+Cast Time: 0.80 sec
+Critical Strike Chance: 5.00%
+Effectiveness of Added Damage: 170%
+Quality: +20%
+Requires Level 70, 98 Dex, 68 Int
+Corpses near the targeted location explode, dealing damage in a small area and creating an orb which moves towards nearby enemies before dealing spell damage in a larger area. The explosion of the corpse is not affected by modifiers to spell damage, and cannot be reflected.
+Deals 753 to 1129 Fire Damage
+Consumes up to 3 corpses
+Explosion deals base Fire Damage equal to 4% of the corpse's Maximum Life
+Base radius is 2 metres
+Base explosion radius is 1.5 metres
+40% increased Orb Movement Speed
+Maximum of 60 Orbs at a time
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

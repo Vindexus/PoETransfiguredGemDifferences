@@ -1,0 +1,23 @@
+Stormbind
+Spell, AoE, Channelling, Lightning, Duration, Arcane
+Level: 20 (Max)
+Cost: 5 Mana
+Cast Time: 0.12 sec
+Critical Strike Chance: 6.00%
+Effectiveness of Added Damage: 160%
+Quality: +20%
+Requires Level 70, 155 Int
+Channel to spread runes on the ground in a growing pattern. The runes fade away after a duration, or will be immediately removed and deal damage in a circular area when detonated by Rune Blast. Enemies standing on the runes are Hindered, reducing their movement speed.
+Deals 444 to 1332 Lightning Damage
+Base duration is 12.00 seconds
+50% reduced Movement Speed
+Runes have 40% more Area of Effect for each time they have been Improved
+Runes deal 100% more Damage with Hits and Ailments for each time they have been Improved
+A Rune is Improved for each 24 Mana Spent
+Runes can be improved 3 times
+Rune Blast
+Cost: 14 Mana
+Cast Time: 0.20 sec
+Channel to improve runes placed by Stormbind based on the mana you spend channelling this skill. Release to detonate the targeted rune, which will cause other runes to detonate in a chain reaction.
+10% increased Cast Speed
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

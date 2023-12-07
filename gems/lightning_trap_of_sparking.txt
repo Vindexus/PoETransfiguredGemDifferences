@@ -1,0 +1,18 @@
+Lightning Trap
+Trap, Critical, Spell, Projectile, Duration, Lightning
+Level: 20 (Max)
+Cost: 20 Mana
+Cast Time: 1.00 sec
+Critical Strike Chance: 6.00%
+Effectiveness of Added Damage: 240%
+Quality: +20%
+Requires Level 70, 68 Dex, 98 Int
+Throws a trap that launches a ring of projectiles through the enemy that set it off, dealing lightning damage to them and subsequent targets and leaving a trail of shocked ground.
+Deals 659 to 1978 Lightning Damage
+Trap lasts 4 seconds
+Fires 9 Projectiles
+Fires Projectiles in a circle
+20% chance to Shock enemies
+15% Chance for Trap to Trigger an additional time
+118% increased Critical Strike Chance against Shocked Enemies
+19% increased Effect of Shock

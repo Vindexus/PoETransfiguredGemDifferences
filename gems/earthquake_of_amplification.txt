@@ -1,4 +1,4 @@
-Earthquake of Amplification
+Earthquake
 Attack, AoE, Duration, Slam, Melee
 Level: 20 (Max)
 Cost: 10 Mana
@@ -7,9 +7,6 @@ Attack Damage: 150% of base
 Effectiveness of Added Damage: 150%
 Quality: +20%
 Requires Level 70, 155 Str
-Smashes the ground, dealing damage in an area and cracking the earth. The crack will erupt in a powerful aftershock after a duration. Cracks created before the first one has erupted will not generate their own aftershocks. Requires an Axe, Mace, Sceptre, Staff or Unarmed.
-Base duration is 3.00 seconds
-Aftershock deals 15% more Damage with Hits per 0.1 seconds Duration
-Aftershock deals 6% more Damage with Ailments per 0.1 seconds Duration
-Aftershock has 2% more Area of Effect per 0.1 seconds Duration
-Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
+Smashes the ground, dealing damage in an area and cracking the earth. The crack will erupt in a powerful aftershock after a short duration. After using this skill, your steps will deal damage around you, cracking the earth if the previous cracks have erupted. This effect ends after a secondary duration, or after a maximum number of aftershocks. Requires an Axe, Mace, Sceptre, Staff or Unarmed.
+Base duration is 1.00 seconds
+Aftershock deals 180% more Damage with Hits and Ailments

@@ -1,17 +1,14 @@
-Consecrated Path of Endurance
+Consecrated Path
 Fire, Attack, AoE, Movement, Duration, Slam, Melee
 Level: 20 (Max)
 Cost: 8 Mana
-Cooldown Time: 2.00 sec
 Attack Speed: 80% of base
-Attack Damage: 180% of base
-Effectiveness of Added Damage: 180%
+Attack Damage: 230% of base
+Effectiveness of Added Damage: 230%
 Quality: +20%
 Requires Level 70, 98 Str, 68 Int
-Slams the ground at a targeted location. If an enemy is near where you target, you'll teleport to it from a short distance away, slam, and create an area of consecrated ground. The cooldown can be bypassed by expending an Endurance Charge. Can't be supported by Multistrike, and requires a Sword, Axe, Mace, Sceptre, Staff or Unarmed.
+Slams the ground at a targeted location. If an enemy is near where you target, you'll teleport to it from a short distance away, slam, and create an area of consecrated ground. Can't be supported by Multistrike, and requires a Sword, Axe, Mace, Sceptre, Staff or Unarmed.
 Base duration is 4.00 seconds
 50% of Physical Damage Converted to Fire Damage
 Deals up to 30% more Damage with Hits to closer targets
-10% more Area of Effect per Endurance Charge
-10% more Attack Damage per Endurance Charge
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

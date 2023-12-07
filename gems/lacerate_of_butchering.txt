@@ -1,0 +1,17 @@
+Lacerate
+Attack, AoE, Physical, Melee
+Level: 20 (Max)
+Cost: 8 Mana
+Attack Speed: 60% of base
+Attack Damage: 154% of base
+Effectiveness of Added Damage: 154%
+Quality: +20%
+Requires Level 70, 68 Str, 98 Dex
+Slashes twice, releasing waves of force that damage enemies they hit. Enemies in the middle of the slashes can be hit by both. The slashes will have a chance to inflict bleeding in Blood Stance, or have a wider angle in Sand Stance. Can be used with Axes and Swords. You are in Blood Stance by default.
+20% increased Attack Speed if you've changed Stance Recently
+75 to 113 Added Attack Physical Damage
++0.9 metres to radius
+88% more Damage with Bleeding while in Blood Stance
+25% chance to cause Bleeding while in Blood Stance
+50% increased angle while in Sand Stance
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

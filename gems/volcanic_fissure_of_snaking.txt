@@ -1,14 +1,14 @@
-Volcanic Fissure of Snaking
-Melee, Attack, AoE, Slam, Fire
+Volcanic Fissure
+Melee, Attack, Projectile, AoE, Slam, Fire
 Level: 20 (Max)
-Cost: 10 Mana
-Attack Speed: 70% of base
+Cost: 8 Mana
+Attack Speed: 80% of base
 Attack Damage: 185% of base
 Effectiveness of Added Damage: 185%
 Quality: +20%
 Requires Level 70, 155 Str
-Slam the ground, creating a winding fissure that deals area damage while travelling outwards. When it reaches the target location it erupts dealing damage in an area. After erupting, the fissure continues moving towards enemies to cause further eruptions. Requires an Axe, Mace, Sceptre, Staff or Unarmed.
+Slam the ground, creating a winding fissure that deals area damage while travelling outwards. When it reaches the target location it erupts, releasing a burst of molten projectiles. Requires an Axe, Mace, Sceptre, Staff or Unarmed.
+Fires 7 Projectiles
 60% of Physical Damage Converted to Fire Damage
-50% more Area of Effect
-Fissure erupts 3 additional times
+Projectiles deal 50% less Damage with Hits and Ailments
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

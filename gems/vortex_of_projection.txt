@@ -1,4 +1,4 @@
-Vortex of Projection
+Vortex
 Spell, AoE, Cold, Duration, Nova
 Level: 20 (Max)
 Cost: 25 Mana
@@ -7,13 +7,10 @@ Critical Strike Chance: 6.00%
 Effectiveness of Added Damage: 270%
 Quality: +20%
 Requires Level 70, 155 Int
-An icy blast explodes around the caster, dealing cold damage to enemies, and leaving behind a whirling vortex which deals cold damage over time and chills enemies caught in it. If the caster targets near their Frostbolt projectiles, it will explode from a number of those projectiles instead, destroying them.
+An icy blast explodes around the caster, dealing cold damage to enemies, and leaving behind a whirling vortex which deals cold damage over time and chills enemies caught in it.
 Deals 779 to 1169 Cold Damage
-Base duration is 1.50 seconds
-Deals 1366.4 Base Cold Damage per second
+Base duration is 3.00 seconds
+Deals 2316.1 Base Cold Damage per second
 Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
 +0.2 metres to radius
-50% more Area of Effect when Cast on Frostbolt
-50% more Damage when Cast on Frostbolt
-Can explode from up to 5 Frostbolt Projectiles
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,0 +1,13 @@
+Ball Lightning
+Spell, Projectile, AoE, Lightning
+Level: 20 (Max)
+Cost: 23 Mana
+Cast Time: 0.70 sec
+Critical Strike Chance: 5.00%
+Effectiveness of Added Damage: 60%
+Quality: +20%
+Requires Level 70, 155 Int
+Fires a slow-moving projectile that damages enemies in an area around it with bolts of lightning.
+Deals 32 to 617 Lightning Damage
+Base radius is 2 metres
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

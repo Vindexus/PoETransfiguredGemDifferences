@@ -1,5 +1,5 @@
-Blade Flurry of Incision
-Critical, Attack, AoE, Channelling, Physical, Melee
+Blade Flurry
+Attack, AoE, Channelling, Physical, Melee
 Level: 20 (Max)
 Cost: 4 Mana
 Attack Speed: 160% of base
@@ -7,8 +7,8 @@ Attack Damage: 49% of base
 Effectiveness of Added Damage: 49%
 Quality: +20%
 Requires Level 70, 98 Dex, 68 Int
-Repeatedly hit enemies in a circle in front of you while channelling, dealing damage to and around the enemy. The critical strike chance is continually boosted while channelling. You unleash an additional hit for each stage reached once the channelling ends. Requires a Dagger, Claw or One-Handed Sword.
+Repeatedly hit enemies in a circle in front of you while channelling, dealing damage to and around the enemy. The damage is continually boosted while channelling. You unleash an additional hit for each stage reached once the channelling ends. Requires a Dagger, Claw or One-Handed Sword.
 75 to 113 Added Attack Physical Damage
-30% more Critical Strike Chance for each Stage
+25% more Damage with Hits and Ailments for each stage
 Maximum 6 Stages
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

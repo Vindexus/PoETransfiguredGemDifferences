@@ -1,12 +1,11 @@
-Raise Zombie of Slamming
+Raise Zombie
 Spell, Minion
 Level: 20 (Max)
 Cost: 28 Mana
 Cast Time: 0.85 sec
 Quality: +20%
 Requires Level 70, 155 Int
-Raises a zombie minion from a corpse, which will follow you and attack enemies with a melee strike and an area of effect slam which cannot be evaded.
+Raises a zombie minion from a corpse, which will follow you and attack enemies with a melee strike.
 Maximum 7 Raised Zombies
-Raised Zombies' Slam Attack has 76% increased Cooldown Recovery Rate
-Raised Zombies' Slam Attack has 76% increased Area of Effect
+Minions have 38% more Maximum Life
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

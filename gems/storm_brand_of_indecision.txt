@@ -1,0 +1,18 @@
+Storm Brand
+Lightning, Spell, AoE, Chaining, Duration, Brand
+Level: 20 (Max)
+Cost: 21 Mana
+Cast Time: 0.75 sec
+Critical Strike Chance: 6.00%
+Effectiveness of Added Damage: 30%
+Quality: +20%
+Requires Level 70, 155 Int
+Creates a magical brand which can attach to a nearby enemy. It periodically activates while attached, firing beams which deal damage to nearby enemies and those around them. The brand will detach if the enemy dies.
+Deals 92 to 277 Lightning Damage
+Activates every 0.5 seconds while Attached
+Increases and Reductions to Cast Speed also apply to this Skill's Activation frequency
+Can be Attached for a total Duration of 5.00 seconds
+Can be Detached for a total Duration of 6.00 seconds
+Sends beams to 4 Enemies, including the Branded Enemy
+Deals 130% more Damage with Hits against Branded Enemy
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

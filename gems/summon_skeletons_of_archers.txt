@@ -1,12 +1,11 @@
-Summon Skeletons of Archers
+Summon Skeletons
 Spell, Minion, Duration
 Level: 20 (Max)
 Cost: 16 Mana
 Cast Time: 0.50 sec
 Quality: +20%
 Requires Level 70, 155 Int
-Summon Skeleton Archer minions at the targeted location. They fire arrows and die after a duration.
+Summons an army of skeletal soldiers, archers and mages, led by a powerful general.
 Base duration is 20.00 seconds
 Maximum 8 Summoned Skeletons
-Summons 3 Skeleton Archers
-Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
+Summons 3 Skeleton Warriors

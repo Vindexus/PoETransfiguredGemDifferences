@@ -1,16 +1,18 @@
-Flame Surge of Combusting
+Flame Surge
 Spell, AoE, Fire, Duration
 Level: 20 (Max)
-Cost: 26 Mana
-Cast Time: 0.80 sec
+Cost: 16 Mana
+Cast Time: 0.50 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 280%
+Effectiveness of Added Damage: 190%
 Quality: +20%
 Requires Level 70, 155 Int
-Strikes enemies in front of you with a surge of flame. If this ignites an enemy a large area of burning ground will be created under them. Your damage modifiers don't apply to this burning ground.
+Strikes enemies in front of you with a surge of flame. Burning enemies are dealt more damage. If you hit an ignited enemy, will create burning ground under them. Your damage modifiers don't apply to this burning ground.
 Base duration is 4.00 seconds
-Deals 1249 to 1874 Fire Damage
-25% chance to Ignite enemies
+Deals 832 to 1247 Fire Damage
+108% more Damage with Hits against Burning enemies
+Cannot Ignite
 +9 to Area of Effect length
-Igniting Enemies creates Burning Ground, no more than once per secondBurning Ground deals 35% of Fire Damage per second of inflicted Ignite
+Hits on Ignited Enemies create Burning Ground, no more than once every 2 seconds
+Burning Ground deals 25% of Fire Damage per second of Ignite affecting Enemy
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

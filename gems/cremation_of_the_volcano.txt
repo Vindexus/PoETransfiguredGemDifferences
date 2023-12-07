@@ -1,17 +1,18 @@
-Cremation of the Volcano
+Cremation
 Spell, AoE, Fire, Duration, Projectile, Orb
 Level: 20 (Max)
-Cost: 26 Mana
-Cast Time: 0.80 sec
+Cost: 20 Mana
+Cast Time: 0.60 sec
 Critical Strike Chance: 5.00%
-Effectiveness of Added Damage: 70%
 Quality: +20%
 Requires Level 70, 98 Dex, 68 Int
-Creates a volcanic geyser at a location, which will repeatedly unleash projectiles sequentially over the surrounding area for a duration.
+A targeted corpse explodes, dealing area damage and turning into a volcanic geyser, which will repeatedly unleash projectiles sequentially over the surrounding area for a duration. The explosion of the corpse is not affected by modifiers to spell damage, and cannot be reflected.
 Fires Projectiles every 1.0 seconds
-Base duration is 2.50 seconds
-Deals 303 to 454 Fire Damage
+Base duration is 8.00 seconds
+Deals 434 to 651 Fire Damage
 Fires 4 Projectiles
-Maximum of 6 Geysers at a time
+Maximum of 3 Geysers at a time
 Fires Projectiles 10% faster
+Explosion deals base Fire Damage equal to 5% of the corpse's Maximum Life
++0.3 metres to radius
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

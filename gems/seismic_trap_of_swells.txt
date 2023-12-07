@@ -1,0 +1,18 @@
+Seismic Trap
+Trap, Spell, Duration, AoE, Physical
+Level: 20 (Max)
+Cost: 25 Mana
+Cooldown Time: 8.00 sec (3 uses)
+Cast Time: 1.00 sec
+Critical Strike Chance: 5.00%
+Effectiveness of Added Damage: 140%
+Quality: +20%
+Requires Level 70, 98 Dex, 68 Int
+Throws a trap which, once triggered, repeatedly releases a number of waves for a duration. Each wave deals damage in a series of small bursts in a line, ending with a larger burst.
+Deals 645 to 967 Physical Damage
+Trap lasts 4 seconds
+Base duration is 3.50 seconds
+Modifiers to Trap Throwing Speed also apply to wave release Frequency
+Releases waves every 0.9 seconds
+Releases 6 waves
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

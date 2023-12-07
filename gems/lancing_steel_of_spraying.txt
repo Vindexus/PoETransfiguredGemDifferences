@@ -1,15 +1,17 @@
-Lancing Steel of Spraying
+Lancing Steel
 Attack, Projectile, Physical
 Level: 20 (Max)
 Cost: 10 Mana
 Attack Speed: 80% of base
-Attack Damage: 220% of base
-Effectiveness of Added Damage: 220%
+Attack Damage: 106% of base
+Effectiveness of Added Damage: 106%
 Quality: +20%
 Requires Level 70, 68 Str, 98 Dex
-Thrust an Axe or Sword forwar to form a cluster of shards in front of you. The cluster will fire a number of projectiles in sequence, aiming at enemies in front of or close to it.
-Projectiles Pierce all Targets
+Thrust an Axe or Sword forward, consuming your Steel Shards to form a cluster of shards in front of you. The cluster will fire a number of projectiles in sequence, aiming at enemies in front of or close to it. Steel Shards are gained with the Call of Steel Skill.
 113 to 169 Added Attack Physical Damage
-Fires 12 Projectiles
-Hits after the first on each Enemy deal 90% less Damage
+Fires 5 Projectiles
+Fires 50% more Projectiles per Steel Shard consumed
+20% chance to Impale Enemies on Hit
+Hits after the first on each Enemy deal 60% less Damage
+Consumes up to 4 Steel Shards
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

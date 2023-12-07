@@ -1,14 +1,14 @@
-Arc of Oscillating
+Arc
 Spell, Chaining, Lightning
 Level: 20 (Max)
 Cost: 23 Mana
 Cast Time: 0.70 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 60%
+Effectiveness of Added Damage: 120%
 Quality: +20%
 Requires Level 70, 155 Int
-An arc of lightning reaches from the caster to a targeted enemy and chains to other enemies. Each time the arc chains, it will also chain a secondary arc to another enemy, but this secondary arc cannot chain further.
-Deals 94 to 531 Lightning Damage
-Chains +7 Times
-50% more Damage with Hits and Ailments for each remaining Chain
+An arc of lightning reaches from the caster to a targeted enemy and chains to other enemies, but not immediately back. Each time the arc chains, it will also chain a secondary arc to another enemy that the main arc has not already hit, which cannot chain further.
+Deals 198 to 1122 Lightning Damage
+Chains +8 Times
+15% more Damage with Hits and Ailments for each remaining Chain
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,16 +1,16 @@
-Spectral Shield Throw of Shattering
-Attack, Projectile, Cold
+Spectral Shield Throw
+Attack, Projectile, Physical
 Level: 20 (Max)
-Cost: 12 Mana
-Attack Time: 0.75 sec
+Cost: 10 Mana
+Attack Time: 0.65 sec
 Critical Strike Chance: 5.00%
 Attack Damage: 100% of base
 Quality: +20%
 Requires Level 70, 68 Str, 98 Dex
-Throws a spectral copy of your shield as a projectile which cannot pierce, and deals off-hand damage augmented by the evasion of the shield. When it collides with something it will shatter, launching a number of smaller shards as projectiles in all directions. Modifiers that cause additional projectiles to be fired will add more shards, not more copies of the shield.
-Shard Projectiles Deal 25% less Damage
-248 to 372 Base Off Hand Cold Damage
-7 to 9 Added Cold Damage per 15 Evasion Rating on Shield
-Fires 12 additional Projectiles
-20% more Projectile Speed
+Throws a spectral copy of your shield as a projectile which cannot pierce, and deals off-hand damage augmented by the defences of the shield. When it collides with something it will shatter, launching a number of smaller shards as projectiles in all directions. Modifiers that cause additional projectiles to be fired will add more shards, not more copies of the shield.
+Shard Projectiles Deal 50% less Damage
+203 to 304 Base Off Hand Physical Damage
+5 to 7 Added Physical Damage per 15 Armour or Evasion Rating on Shield
+Fires 5 additional Projectiles
+Primary Projectile Chains +3 Times
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

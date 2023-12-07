@@ -1,15 +1,15 @@
-Blade Trap of Laceration
-Trap, Attack, AoE, Physical
+Blade Trap
+Trap, Attack, AoE
 Level: 20 (Max)
 Cost: 20 Mana
-Attack Damage: 180% of base
-Effectiveness of Added Damage: 180%
+Attack Damage: 96% of base
+Effectiveness of Added Damage: 96%
 Quality: +20%
 Requires Level 70, 155 Dex
-Throws a trap which, once triggered, swings two copies of your equipped Dagger, Claw or One Handed Sword around it in a circle, each damaging enemies it spins through.
-Trap lasts 4 seconds
-Rotates 1 time
+Throws a trap which, once triggered, swings two copies of your equipped Dagger, Claw or One Handed Sword around it in circles, each repeatedly damaging enemies it spins through.
+Trap lasts 5 seconds
+Rotates 5 times
+25% increased rotation speed if Dual Wielding
+Rotates +1 times if Dual Wielding
 Base radius is 2.2 metres
-79% more Damage with Bleeding
-25% chance to cause Bleeding
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

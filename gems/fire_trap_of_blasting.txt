@@ -1,0 +1,19 @@
+Fire Trap
+Trap, Spell, Duration, AoE, Fire
+Level: 20 (Max)
+Cost: 20 Mana
+Cast Time: 1.00 sec
+Critical Strike Chance: 6.00%
+Effectiveness of Added Damage: 260%
+Quality: +20%
+Requires Level 70, 98 Dex, 68 Int
+Throws a trap that explodes when triggered, dealing fire damage to surrounding enemies and leaving an area of burning ground that damages enemies who walk through it.
+Trap lasts 4 seconds
+Deals 3018.8 Base Fire Damage per second
+Base duration is 1.75 seconds
+Deals 915 to 1373 Fire Damage
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+80% increased Trap Trigger Area of Effect
++0.8 metres to radius
+286 to 429 added Fire Damage against Burning Enemies
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

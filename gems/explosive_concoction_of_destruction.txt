@@ -1,5 +1,5 @@
-Explosive Concoction of Destruction
-Critical, Attack, AoE, Fire, Cold, Lightning, Projectile
+Explosive Concoction
+Attack, AoE, Fire, Cold, Lightning, Projectile
 Level: 20 (Max)
 Cost: 9 Mana
 Attack Speed: 115% of base
@@ -7,12 +7,12 @@ Attack Damage: 100% of base
 Quality: +20%
 Requires Level 70, 155 Dex
 Throws a bottle that explodes to deal unarmed attack damage in an area. Can consume charges from your Ruby, Sapphire, and Topaz flasks to add further damage. Requires an empty main hand, and no off-hand weapon.
-799 to 1199 Added Fire Damage
-+8% to Critical Strike Chance
+1003 to 1505 Added Fire Damage
++6% to Critical Strike Chance
 Base radius is 1.8 metres
 15% reduced Flask Charges used
 Can consume Charges from Ruby, Sapphire, and Topaz FlasksConsumes 1 Charge per Projectile Fired from 1 Flask of each valid type, if possible
-Deals 310 to 469 Added Cold Damage if Charges were consumed from a Sapphire Flask
-Deals 70 to 719 Added Lightning Damage if Charges were consumed from a Topaz Flask
-+98% to Critical Strike Multiplier if Charges were consumed from a Ruby Flask
+Deals 389 to 589 Added Cold Damage if Charges were consumed from a Sapphire Flask
+Deals 88 to 903 Added Lightning Damage if Charges were consumed from a Topaz Flask
++98% to Damage over Time Multiplier with Ignite if Charges were consumed from a Ruby Flask
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
