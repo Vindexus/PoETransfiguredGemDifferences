@@ -1,0 +1,16 @@
+Ice Spear
+Critical, Spell, Projectile, Cold
+Level: 20 (Max)
+Cost: 23 Mana
+Cast Time: 0.70 sec
+Critical Strike Chance: 7.00%
+Effectiveness of Added Damage: 130%
+Quality: +20%
+Requires Level 70, 155 Int
+Launches shards of ice in rapid succession. After travelling a short distance they change to a second form, which moves much faster and pierces through enemies.
+Deals 568 to 852 Cold Damage
+Fires 2 Projectiles
+Second form has 600% increased Critical Strike Chance
+Second form has +89% to Critical Strike Multiplier
+Second form has 300% more Projectile Speed
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

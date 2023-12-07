@@ -1,0 +1,21 @@
+Cold Snap
+Spell, AoE, Cold, Duration
+Level: 20 (Max)
+Cost: 28 Mana
+Cooldown Time: 3.00 sec
+Cast Time: 0.85 sec
+Critical Strike Chance: 6.00%
+Effectiveness of Added Damage: 320%
+Quality: +20%
+Requires Level 70, 68 Dex, 98 Int
+Creates a sudden burst of cold in a targeted area, damaging enemies. Also creates an expanding area which is filled with chilled ground, and deals cold damage over time to enemies. Enemies that die while in the area have a chance to grant Frenzy Charges. The cooldown can be bypassed by expending a Frenzy Charge.
+Deals 1440 to 2160 Cold Damage
+Base duration is 5.00 seconds
+Deals 1895.4 Base Cold Damage per second
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+20% more Effect of Chill
+Burst Base radius is 1.5 metres
+Chilled Ground Base initial radius is 1.5 metres
+Chilled Ground Base final radius is 3 metres
+25% chance to gain a Frenzy Charge when an Enemy Dies while in this Skill's Area
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

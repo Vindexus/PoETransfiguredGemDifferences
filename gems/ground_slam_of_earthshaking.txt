@@ -1,0 +1,29 @@
+Ground Slam
+Attack, AoE, Vaal, Slam, Melee
+Level: 20 (Max)
+Cost: 6 Mana
+Attack Speed: 90% of base
+Attack Damage: 188% of base
+Effectiveness of Added Damage: 188%
+Quality: +20%
+Requires Level 70, 155 Str
+Slams the ground in front of you, creating a wave that travels in all directions that damages enemies with an increased chance to stun. The wave deals more damage to closer enemies. Requires an Axe, Mace, Sceptre, Staff or Unarmed.
+25% reduced Enemy Stun Threshold
++1 metre to radius
+Deals up to 69% more Damage with Hits to closer targets
+Vaal Ground Slam
+Souls Per Use: 15
+Can Store 4 Uses
+Soul Gain Prevention: 1 sec
+Attack Speed: 90% of base
+Attack Damage: 375% of base
+Effectiveness of Added Damage: 375%
+Slams the ground in front of you, creating a wave that travels in all directions that damages enemies with an increased chance to stun. The wave deals more damage to closer enemies. Requires an Axe, Mace, Sceptre, Staff or Unarmed.
+25% reduced Enemy Stun Threshold
++0.9 metres to radius
+200% increased Stun Duration on enemies
+Can't be Evaded
+Deals up to 69% more Damage with Hits to closer targets
+This Attack can be Exerted as though it was not a Vaal Skill
+Corrupted
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

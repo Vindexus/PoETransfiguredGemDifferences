@@ -1,0 +1,16 @@
+Wild Strike
+Attack, Melee, Strike, Lightning, Cold, Fire, Projectile, AoE, Chaining, Prismatic
+Level: 20 (Max)
+Cost: 6 Mana
+Attack Damage: 231% of base
+Effectiveness of Added Damage: 231%
+Quality: +20%
+Requires Level 70, 68 Str, 98 Dex
+Your melee weapon strikes enemies, converting physical damage to a random element. Then, depending on the element chosen, it releases a fiery explosion, an arcing bolt of lightning, or an icy wave. It will avoid choosing the same element twice in a row.
+Projectiles Pierce all Targets
+Beams Chain 7 Times
+Fires 3 Projectiles
+19% increased Area of Effect
+20% chance to Freeze, Shock and Ignite
+100% of Physical Damage Converted to Fire, Cold or Lightning Damage
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,0 +1,15 @@
+Shattering Steel
+Attack, Projectile, AoE, Physical
+Level: 20 (Max)
+Cost: 9 Mana
+Attack Speed: 85% of base
+Attack Damage: 159% of base
+Effectiveness of Added Damage: 159%
+Quality: +20%
+Requires Level 70, 68 Str, 98 Dex
+Swing an Axe or Sword, firing projectiles which shatter on impact or soon after being launched, dealing area damage in front of where they shatter.
+123 to 185 Added Attack Physical Damage
+Fires 2 additional Projectiles
+40% chance to Impale Enemies on Hit
+40% increased Impale Effect
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

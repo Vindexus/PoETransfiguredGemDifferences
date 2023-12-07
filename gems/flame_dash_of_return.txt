@@ -1,0 +1,17 @@
+Flame Dash
+Spell, Movement, Duration, Fire, Travel, Blink
+Level: 20 (Max)
+Cost: 23 Mana
+Cooldown Time: 3.50 sec (3 uses)
+Cast Time: 0.80 sec
+Critical Strike Chance: 6.00%
+Effectiveness of Added Damage: 140%
+Quality: +20%
+Requires Level 70, 155 Int
+Teleport to a location, damaging enemies and leaving a trail of burning ground. Shares a cooldown with other Blink skills.
+Deals 1738.6 Base Fire Damage per second
+Base duration is 4.00 seconds
+Deals 659 to 988 Fire Damage
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+29% increased Cooldown Recovery Rate
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

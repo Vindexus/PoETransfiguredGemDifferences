@@ -1,0 +1,19 @@
+Holy Flame Totem
+Totem, Spell, Projectile, Fire, Channelling, Physical
+Level: 20 (Max)
+Cost: 39 Mana
+Cast Time: 0.25 sec
+Critical Strike Chance: 5.00%
+Effectiveness of Added Damage: 35%
+Quality: +20%
+Requires Level 70, 98 Str, 68 Int
+Summons a totem that channels to fire a stream of flame at nearby enemies, and creates an area of consecrated ground around the totem.
+Deals 153 to 230 Physical Damage
+Projectiles Pierce all Targets
+Totem lasts 8 seconds
+Fires 3 Projectiles
+50% of Physical Damage Converted to Fire Damage
+Summons a Totem which uses this Skill
+40% increased Projectile Speed
+Consecrated Ground grants Immunity to Curses to you and Allies
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

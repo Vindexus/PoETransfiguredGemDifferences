@@ -1,0 +1,13 @@
+Ethereal Knives
+Spell, Projectile, Physical
+Level: 20 (Max)
+Cost: 20 Mana
+Cast Time: 0.60 sec
+Critical Strike Chance: 6.00%
+Effectiveness of Added Damage: 220%
+Quality: +20%
+Requires Level 70, 98 Dex, 68 Int
+Fires an arc of knives in front of the caster which deals physical damage.
+Deals 949 to 1423 Physical Damage
+Fires 15 Projectiles
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

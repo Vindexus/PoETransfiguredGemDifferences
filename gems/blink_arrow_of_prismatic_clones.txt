@@ -1,0 +1,13 @@
+Blink Arrow
+Attack, Minion, Duration, Movement, Travel, Bow
+Level: 20 (Max)
+Cost: 20 Mana
+Cooldown Time: 3.00 sec
+Attack Damage: 100% of base
+Quality: +20%
+Requires Level 70, 155 Dex
+Fires an arrow at the target destination. When the arrow lands, you are teleported to it and a clone is summoned at your old location. The clone is a minion that uses your bow and quiver.
+Base duration is 3.00 seconds
+87% increased Cooldown Recovery Rate
+Minions deal 57% more Damage
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

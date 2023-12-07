@@ -1,0 +1,19 @@
+Frozen Legion
+Spell, Cold, Attack, AoE, Melee
+Level: 20 (Max)
+Cost: 23 Mana
+Cooldown Time: 0.80 sec (6 uses)
+Cast Time: 0.70 sec
+Quality: +20%
+Requires Level 70, 98 Str, 68 Int
+This spell consumes multiple cooldown uses to summon icy Statues in a ring. Each Statue uses your Frozen Sweep attack once before vanishing. Requires an Axe, Mace, Sceptre, or Staff. This skill cannot be triggered, supported by Spell Echo or Unleash, or used by Totems, Traps, or Mines.
+20% increased Cooldown Recovery Rate
+Consumes one Cooldown Use per Statue Summoned
+Frozen Sweep
+Attack Speed: 70% of base
+Attack Damage: 281% of base
+Effectiveness of Added Damage: 281%
+This attack is used by your Statues to deal damage in an area around them while stepping forward. This skill cannot repeat and can only be used by Statues from Frozen Legion.
+100% of Physical Damage Converted to Cold Damage
+You cannot use this Skill yourself, your Statues will use this Skill for you
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

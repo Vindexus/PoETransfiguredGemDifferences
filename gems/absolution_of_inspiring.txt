@@ -1,0 +1,32 @@
+Absolution
+Spell, Minion, Duration, Physical, Lightning, Vaal, AoE
+Level: 20 (Max)
+Cost: 26 Mana
+Cast Time: 0.75 sec
+Critical Strike Chance: 6.00%
+Effectiveness of Added Damage: 200%
+Quality: +20%
+Requires Level 70, 98 Str, 68 Int
+Causes one of your existing Sentinels of Absolution to Ascend, becoming more powerful, gaining new spells, and overriding its duration, while maintaining its other bonuses, including from support gems. If you cannot have more Ascended Sentinels of Absolution, an existing one will be refreshed instead.
+Deals 873 to 1310 Physical Damage
+Base duration is 1.00 seconds
+Base secondary duration is 10.00 seconds
++0.6 metres to radius
+25% chance to Summon a Sentinel of Absolution on Hitting a Rare or Unique Enemy
+Maximum 3 Summoned Sentinels of Absolution
+Minions have 40% increased Cooldown Recovery Rate
+This Spell and Minions Convert 50% of Physical Damage to Lightning Damage
+Vaal Absolution
+Souls Per Use: 40
+Can Store 1 Use
+Soul Gain Prevention: 30 sec
+Cast Time: 0.50 sec
+Causes one of your existing Sentinels of Absolution to Ascend, becoming more powerful, gaining new spells, and overriding its duration, while maintaining its other bonuses, including from support gems. If you cannot have more Ascended Sentinels of Absolution, an existing one will be refreshed instead.
+Base duration is 15.00 seconds
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+Maximum 1 Ascended Sentinel of AbsolutionAscended Sentinel does not count towards the regular limit
+Minions have 40% increased Cooldown Recovery Rate
+Ascended Sentinels deal 200% more Damage
+Ascended Sentinels take 70% less Damage
+Corrupted
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

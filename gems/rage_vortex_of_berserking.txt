@@ -1,0 +1,18 @@
+Rage Vortex
+Attack, AoE, Duration, Melee
+Level: 20 (Max)
+Cost: 46 Life
+Attack Speed: 70% of base
+Attack Damage: 62% of base
+Effectiveness of Added Damage: 62%
+Quality: +20%
+Requires Level 70, 155 Str
+Spin with a sword or axe to deal damage in an area around you. Sacrifices some rage to send a ragestorm forward. While enemies are inside it, the ragestorm will slow its movement and repeatedly deal attack damage based on your attack speed.
+Base duration is 3.00 seconds
+Base radius is 1.8 metres
+Sacrifices 25% of Rage to create a Ragestorm, if you have at least 10 Rage
+Ragestorm deals 5% more Damage per 1 Rage Sacrificed
+Ragestorm has +0.1 metres to radius per 2 Rage sacrificed
+Ragestorm Hits 250% more Frequently
+Maximum 1 Ragestorm
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

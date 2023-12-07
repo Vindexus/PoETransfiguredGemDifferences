@@ -1,0 +1,14 @@
+Cyclone
+Attack, AoE, Movement, Channelling, Physical, Melee
+Level: 20 (Max)
+Cost: 2 Mana
+Attack Speed: 300% of base
+Attack Damage: 59% of base
+Effectiveness of Added Damage: 59%
+Quality: +20%
+Requires Level 70, 68 Str, 98 Dex
+Channel this skill to move towards a targeted location while spinning constantly attacking enemies in an area around you. While channelling this skill, you cannot be knocked back.
+28 to 42 Added Attack Physical Damage
+10% increased Area of Effect per 0.1 metre additional Melee Strike Range
+20% less Movement Speed
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

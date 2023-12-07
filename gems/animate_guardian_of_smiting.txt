@@ -1,0 +1,13 @@
+Animate Guardian
+Spell, Minion
+Level: 20 (Max)
+Cost: 20 Mana
+Cast Time: 0.60 sec
+Quality: +20%
+Requires Level 70, 98 Str, 68 Int
+Animates a melee weapon or armour, attaching it to an invisible Guardian that fights by your side. Animating multiple items attaches them to the same Guardian. You cannot animate unidentified items. Cannot be used by Traps or Mines.
+40% increased Minion Movement Speed
+Minions have 38% more Maximum Life
+Can use Items requiring up to Level 100
+Minion deals 38% more Damage
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

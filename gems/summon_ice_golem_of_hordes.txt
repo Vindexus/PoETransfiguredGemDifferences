@@ -1,0 +1,14 @@
+Summon Ice Golem
+Critical, Cold, Minion, Spell, Golem
+Level: 20 (Max)
+Cost: 54 Mana
+Cooldown Time: 6.00 sec
+Cast Time: 1.00 sec
+Quality: +20%
+Requires Level 70, 98 Dex, 68 Int
+Summons an Ice Golem that grants you increased Critical Strike Chance and Accuracy. The Ice Golem can use an icy barrage spell and a chilling spinning dash in addition to its melee attack.
+Maximum 1 Summoned Golem
+Golems Grant 30% increased Critical Strike Chance
+Golems Grant 30% increased Accuracy
+20% increased Buff Effect
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

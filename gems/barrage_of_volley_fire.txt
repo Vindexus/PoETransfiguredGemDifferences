@@ -1,0 +1,12 @@
+Barrage
+Attack, Projectile, Bow
+Level: 20 (Max)
+Cost: 11 Mana
+Attack Damage: 54.6% of base
+Effectiveness of Added Damage: 55%
+Quality: +20%
+Requires Level 70, 155 Dex
+After a short preparation time, you fire individual projectiles repeatedly with a Bow or Wand. These projectiles have a small randomised spread. This skill cannot be Triggered.
+Fires 6 Projectiles
+Fires Projectiles sequentially
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

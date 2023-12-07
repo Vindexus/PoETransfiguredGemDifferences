@@ -1,0 +1,35 @@
+Cleave
+Attack, AoE, Physical, Vaal, Duration, Melee
+Level: 20 (Max)
+Cost: 6 Mana
+Attack Speed: 80% of base
+Attack Damage: 237% of base
+Effectiveness of Added Damage: 237%
+Quality: +20%
+Requires Level 70, 98 Str, 68 Dex
+The character swings their weapon (or both weapons if dual wielding) in an arc, damaging monsters in an area in front of them. Killing Blows on Rare or Unique enemies grant a buff that improves Cleave for a duration. Killing Blows on Rare Enemies also steal their modifiers for a secondary duration. Only works with Axes and Swords.
+When Dual Wielding, Deals 60% Damage from each Weapon combined
+75 to 113 Added Attack Physical Damage
++1 metre to radius
++0.1 metres to radius per Nearby Enemy, up to a maximum of +1 metre
+Vaal Cleave
+Souls Per Use: 25
+Can Store 3 Uses
+Soul Gain Prevention: 4 sec
+Attack Speed: 80% of base
+Attack Damage: 400% of base
+Effectiveness of Added Damage: 400%
+The character swings their weapon (or both weapons if dual wielding) in an arc, damaging monsters in an area in front of them. Killing Blows on Rare or Unique enemies grant a buff that improves Cleave for a duration. Killing Blows on Rare Enemies also steal their modifiers for a secondary duration. Only works with Axes and Swords.
+When Dual Wielding, Deals 60% Damage from each Weapon combined
+Base duration is 20.00 seconds
+Base secondary duration is 20.00 seconds
++0.8 seconds to Attack Time
+75 to 113 Added Attack Physical Damage
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
++2.4 metres to radius
+Culling Strike
+Can't be Evaded
++0.1 metres to radius per Nearby Enemy, up to a maximum of +1 metre
+Buff grants Culling Strike with CleaveBuff grants 60% more Cleave Area of EffectBuff grants 60% more Cleave Damage with Hits and Ailments to Enemies that are on Low Life
+Corrupted
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,0 +1,32 @@
+Molten Strike
+Attack, Projectile, AoE, Melee, Strike, Fire, Chaining, Vaal
+Level: 20 (Max)
+Cost: 6 Mana
+Attack Damage: 185% of base
+Effectiveness of Added Damage: 185%
+Quality: +20%
+Requires Level 70, 155 Str
+Infuses your melee weapon with molten energies to attack with physical and fire damage. This attack causes balls of molten magma to launch forth causing area attack damage to enemies where they land.
+75 to 113 Added Fire Damage
+Fires 4 Projectiles
+60% of Physical Damage Converted to Fire Damage
++0.6 metres to Melee Strike Range
+Projectiles deal 40% less Damage with Hits and Ailments
+Vaal Molten Strike
+Souls Per Use: 15
+Can Store 3 Uses
+Soul Gain Prevention: 3 sec
+Attack Speed: 70% of base
+Attack Damage: 110% of base
+Effectiveness of Added Damage: 110%
+Infuses your melee weapon with molten energies to attack with physical and fire damage. This attack causes balls of molten magma to launch forth causing area attack damage to enemies where they land.
+75 to 113 Added Fire Damage
+Fires 9 Projectiles
+Chains +8 Times
+60% of Physical Damage Converted to Fire Damage
++0.4 metres to radius
+Can't be Evaded
+Projectiles deal 10% more Damage with Hits and Ailments
+Projectiles can Chain when impacting the groundProjectiles do not change direction when Chaining
+Corrupted
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

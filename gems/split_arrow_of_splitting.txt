@@ -1,0 +1,13 @@
+Split Arrow
+Attack, Projectile, Physical, Bow
+Level: 20 (Max)
+Cost: 10 Mana
+Attack Speed: 110% of base
+Attack Damage: 119% of base
+Effectiveness of Added Damage: 119%
+Quality: +20%
+Requires Level 70, 155 Dex
+Fires multiple arrows at different targets.
+56 to 85 Added Attack Physical Damage
+Fires 13 Arrows
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

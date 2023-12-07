@@ -1,0 +1,27 @@
+Earthquake
+Attack, AoE, Duration, Vaal, Slam, Melee
+Level: 20 (Max)
+Cost: 10 Mana
+Attack Speed: 75% of base
+Attack Damage: 150% of base
+Effectiveness of Added Damage: 150%
+Quality: +20%
+Requires Level 70, 155 Str
+Smashes the ground, dealing damage in an area and cracking the earth. The crack will erupt in a powerful aftershock after a short duration. After using this skill, your steps will deal damage around you, cracking the earth if the previous cracks have erupted. This effect ends after a secondary duration, or after a maximum number of aftershocks. Requires an Axe, Mace, Sceptre, Staff or Unarmed.
+Base duration is 1.00 seconds
+Aftershock deals 180% more Damage with Hits and Ailments
+Vaal Earthquake
+Souls Per Use: 30
+Can Store 1 Use
+Soul Gain Prevention: 9 sec
+Attack Speed: 75% of base
+Attack Damage: 106% of base
+Effectiveness of Added Damage: 106%
+Smashes the ground, dealing damage in an area and cracking the earth. The crack will erupt in a powerful aftershock after a short duration. After using this skill, your steps will deal damage around you, cracking the earth if the previous cracks have erupted. This effect ends after a secondary duration, or after a maximum number of aftershocks. Requires an Axe, Mace, Sceptre, Staff or Unarmed.
+Base duration is 1.00 seconds
+Base secondary duration is 12.00 seconds
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+Aftershock deals 437% more Damage with Hits and Ailments
+Ongoing effect ends after 9 Aftershocks
+Corrupted
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

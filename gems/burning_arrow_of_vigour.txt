@@ -1,0 +1,15 @@
+Burning Arrow
+Attack, Projectile, Fire, Bow
+Level: 20 (Max)
+Cost: 12 Mana
+Attack Speed: 70% of base
+Attack Damage: 300% of base
+Effectiveness of Added Damage: 300%
+Quality: +20%
+Requires Level 70, 155 Dex
+Fires a burning arrow that deals fire damage and has a chance to ignite.
+Adds 201 to 302 Fire Damage to Attacks against Ignited Enemies
+100% of Physical Damage Converted to Fire Damage
+25% chance to Ignite enemies
+20% more Damage with Ignite
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

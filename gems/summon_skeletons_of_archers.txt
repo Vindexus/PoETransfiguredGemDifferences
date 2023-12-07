@@ -1,0 +1,25 @@
+Summon Skeletons
+Spell, Minion, Duration, Vaal
+Level: 20 (Max)
+Cost: 16 Mana
+Cast Time: 0.50 sec
+Quality: +20%
+Requires Level 70, 155 Int
+Summons an army of skeletal soldiers, archers and mages, led by a powerful general.
+Base duration is 20.00 seconds
+Maximum 8 Summoned Skeletons
+Summons 3 Skeleton Warriors
+Vaal Summon Skeletons
+Souls Per Use: 50
+Can Store 1 Use
+Soul Gain Prevention: 10 sec
+Cast Time: 0.80 sec
+Summons an army of skeletal soldiers, archers and mages, led by a powerful general.
+Base duration is 20.00 seconds
+Maximum 37 Summoned Skeletons
+Summons 21 Skeleton Soldiers
+Summons 9 Skeleton Archers
+Summons 5 Skeleton Mages
+Summons 1 Skeleton General
+Corrupted
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,0 +1,27 @@
+Ice Nova
+Spell, AoE, Vaal, Cold, Nova
+Level: 20 (Max)
+Cost: 23 Mana
+Cast Time: 0.70 sec
+Critical Strike Chance: 6.00%
+Effectiveness of Added Damage: 230%
+Quality: +20%
+Requires Level 70, 155 Int
+A chilling circle of ice expands from the caster, repeating from every enemy it hits.
+Deals 988 to 1481 Cold Damage
++0.4 metres to radius
+Base radius is 2.9 metres
+Vaal Ice Nova
+Souls Per Use: 25
+Can Store 2 Uses
+Soul Gain Prevention: 2 sec
+Cast Time: 0.70 sec
+Critical Strike Chance: 6.00%
+Effectiveness of Added Damage: 120%
+A chilling circle of ice expands from the caster, repeating from every enemy it hits.
+Deals 518 to 762 Cold Damage
+Causes smaller novas up to 5 times on enemies hit
+20% reduced Area of Effect each repeat
+Base radius is 2.9 metres
+Corrupted
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
