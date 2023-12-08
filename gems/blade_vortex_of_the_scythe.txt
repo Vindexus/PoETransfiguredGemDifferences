@@ -1,0 +1,17 @@
+Blade Vortex
+Critical, Spell, AoE, Duration, Physical
+Level: 20 (Max)
+Cost: 16 Mana
+Cast Time: 0.50 sec
+Critical Strike Chance: 6.00%
+Effectiveness of Added Damage: 30%
+Quality: +20%
+Requires Level 70, 155 Dex
+This spell creates ethereal blades which orbit in an area around you, dealing damage every 0.6 seconds to all enemies in their radius. As more blades are added, the damage becomes greater and more frequent.
+Deals 140 to 211 Physical Damage
+Base duration is 4.00 seconds
++0.2 metres to radius
+40% increased Hit Rate for each blade
+35% more Damage for each blade
+Can have up to 10 active spinning blades
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

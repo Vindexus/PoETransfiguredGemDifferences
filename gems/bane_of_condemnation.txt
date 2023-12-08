@@ -1,0 +1,18 @@
+Bane
+Chaos, Trigger, Spell, AoE, Duration, Hex
+Level: 20 (Max)
+Cost: 20 Mana
+Cast Time: 0.60 sec
+Quality: +20%
+Requires Level 70, 155 Int
+Applies a debuff to enemies in an area, which deals chaos damage over Time. Linked hex curses are also applied to those enemies. The debuff deals more damage and lasts longer for each hex applied this way.  This skill cannot be used by Totems, Traps, or Mines.
+Only applies Hexes from Curse Skill Gems requiring Level 70 or lower
+Deals 895.6 Base Chaos Damage per second
+Base duration is 2.00 seconds
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+Base radius is 2.4 metres
+42% more Damage per Curse applied
+50% increased Debuff Duration per Curse applied
+Applied Curses have 20% increased Effect
+Applied Curses have 25% less Effect
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,0 +1,19 @@
+Galvanic Field
+Spell, AoE, Duration, Lightning, Chaining, Orb
+Level: 20 (Max)
+Cost: 18 Mana
+Cast Time: 0.50 sec
+Critical Strike Chance: 6.00%
+Quality: +20%
+Requires Level 70, 155 Int
+Applies a buff boosting chance to shock. When you shock an enemy while you have this buff, creates a spherical field of energy attached to the shocked enemy for a duration, which will damage it and other nearby enemies with beams of lightning. The strength of the field depends on the magnitude of shock affecting the enemy when it is created.
+Deals 56 to 1067 Lightning Damage
+Cannot inflict Shock
+Base duration is 6.00 seconds
+Fires a beam every 0.10 seconds
+Can target each enemy only once every 0.50 seconds
+Field gains 15% more Damage with Hits per 5% Shock Effect on Enemy when created
+Field gains +0.1 metres to radius per 10% Shock Effect on Enemy when created
+Maximum 1 Field
+Buff Grants 40% chance to Shock enemies
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

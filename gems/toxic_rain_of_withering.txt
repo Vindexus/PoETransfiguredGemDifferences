@@ -1,0 +1,16 @@
+Toxic Rain
+Attack, AoE, Chaos, Duration, Projectile, Bow
+Level: 20 (Max)
+Cost: 11 Mana
+Attack Damage: 72.8% of base
+Effectiveness of Added Damage: 73%
+Quality: +20%
+Requires Level 70, 155 Dex
+Fire arrows into the air that rain down around the targeted area, dealing damage to enemies they hit and creating spore pods where they land. Each spore pod deals chaos damage over time to nearby enemies and slows their movement speed. The pods last for a duration before bursting, dealing area damage.
+Deals 238 Base Chaos Damage per second
+Base duration is 1.20 seconds
+Fires 5 Arrows
+60% of Physical Damage Converted to Chaos Damage
+Modifiers to Projectile Damage apply to this Skill's Damage Over Time effect
+Each Spore Pod applies 5% less Movement Speed to nearby Enemies, to a maximum of 30%
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

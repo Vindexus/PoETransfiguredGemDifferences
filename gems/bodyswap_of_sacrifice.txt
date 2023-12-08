@@ -1,0 +1,14 @@
+Bodyswap
+Movement, Spell, AoE, Fire, Travel
+Level: 20 (Max)
+Cost: 23 Mana
+Cast Time: 0.70 sec
+Critical Strike Chance: 6.00%
+Quality: +20%
+Requires Level 70, 68 Dex, 98 Int
+Violently destroys your body and recreates it at the location of a targeted enemy or corpse, dealing spell damage in an area at both locations. If there is no specific target, it will prioritise corpses over enemies. If targeting a corpse, the corpse will also explode, dealing damage around it that is not affected by modifiers to spell damage, and cannot be reflected. This spell cannot be repeated.
+This Spell deals 210 to 315, plus 8% of your maximum Life, as base Fire Damage
+Explosion deals base Fire Damage equal to 7.9% of the corpse's Maximum Life
++0.2 metres to radius
+200% more Area of Effect if Consuming a corpse
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

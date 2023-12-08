@@ -1,0 +1,16 @@
+Viper Strike
+Attack, Duration, Melee, Strike, Chaos
+Level: 20 (Max)
+Cost: 5 Mana
+Attack Damage: 154% of base
+Effectiveness of Added Damage: 154%
+Quality: +20%
+Requires Level 70, 155 Dex
+Hits enemies, converting some of your physical damage to chaos damage and inflicting poison which will be affected by modifiers to skill duration. If dual wielding, will strike with both weapons. Requires a claw, dagger or sword.
+30% less Attack Speed if Dual Wielding
+Each Weapon Hits separately if Dual Wielding, dealing 20% less Damage
+Base duration is 5.00 seconds
+169 to 254 Added Chaos Damage
+60% of Physical Damage Converted to Chaos Damage
+60% chance to Poison on Hit
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

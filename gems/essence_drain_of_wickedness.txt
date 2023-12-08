@@ -1,0 +1,16 @@
+Essence Drain
+Spell, Projectile, Duration, Chaos, AoE
+Level: 20 (Max)
+Cost: 23 Mana
+Cast Time: 0.70 sec
+Critical Strike Chance: 5.00%
+Effectiveness of Added Damage: 90%
+Quality: +20%
+Requires Level 70, 68 Dex, 98 Int
+Fires a projectile that applies a damage over time debuff when it hits. You are healed for a portion of the debuff damage. The debuff is spread by Contagion.
+Deals 644 to 966 Chaos Damage
+Deals 1509.4 Base Chaos Damage per second
+Base duration is 3.80 seconds
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+Regenerate 1.00% of Debuff Damage as Life
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

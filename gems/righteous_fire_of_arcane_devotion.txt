@@ -1,0 +1,14 @@
+Righteous Fire
+Spell, AoE, Fire, Duration
+Level: 20 (Max)
+Cooldown Time: 0.30 sec
+Cast Time: Instant
+Quality: +20%
+Requires Level 70, 68 Str, 98 Int
+Sacrifices a portion of your Life and Energy Shield to engulf you in magical fire that rapidly burns nearby enemies for a duration. Your spell damage is increased while under this effect.
++0.8 metres to radius
+Deals 70% of your Maximum Life as Base Fire Damage per second
+Deals 70% of your Maximum Energy Shield as Base Fire Damage per second
+You Burn for 90% of your Maximum Life per second as Fire Damage
+You Burn for 70% of your Maximum Energy Shield per second as Fire Damage
+Grants 39% more Spell Damage

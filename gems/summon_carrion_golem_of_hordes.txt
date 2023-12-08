@@ -1,0 +1,14 @@
+Summon Carrion Golem
+Physical, Minion, Spell, Golem
+Level: 20 (Max)
+Cost: 54 Mana
+Cooldown Time: 6.00 sec
+Cast Time: 1.00 sec
+Quality: +20%
+Requires Level 70, 155 Int
+Summons a Carrion Golem that grants added physical damage for your non-golem minions. The Carrion Golem attacks with a series of slashes that increase in speed and damage, as well as a cascade of bone spikes, and deals more damage for each of your non-golem minions near it.
+Maximum 1 Summoned Golem
+20% increased Buff Effect
+Golems deal 5% more Damage per Non-Golem Minion near them, up to 50%
+Golems grant 27 to 41 additional Physical Damage for Non-Golem Minions
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

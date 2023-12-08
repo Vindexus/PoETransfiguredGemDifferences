@@ -1,0 +1,15 @@
+Tectonic Slam
+Fire, Attack, AoE, Slam, Melee
+Level: 20 (Max)
+Cost: 10 Mana
+Attack Speed: 80% of base
+Attack Damage: 275% of base
+Effectiveness of Added Damage: 275%
+Quality: +20%
+Requires Level 70, 155 Str
+Slam the ground, unleashing a fiery fissure in front of you, dealing area damage and randomly releasing a number of smaller fissures branching off from it. Consume an Endurance Charge every third time you slam the ground with this skill. Requires a Mace, Sceptre, Sword, Axe, Staff, or Unarmed.
+60% of Physical Damage Converted to Fire Damage
+5% more Area of Effect per Endurance Charge
++5% fissure branching chance per Endurance Charge
+60% fissure branching chance
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

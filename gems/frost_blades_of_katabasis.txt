@@ -1,0 +1,14 @@
+Frost Blades
+Attack, Projectile, Melee, Strike, Cold
+Level: 20 (Max)
+Cost: 6 Mana
+Attack Damage: 225% of base
+Effectiveness of Added Damage: 225%
+Quality: +20%
+Requires Level 70, 155 Dex
+Attack enemies with increased range, releasing icy blades from the first enemy hit which fly at other enemies. Requires a Melee Weapon.
+75 to 113 Added Cold Damage
+Fires 10 Projectiles
+60% of Physical Damage Converted to Cold Damage
++2.1 metres to Melee Strike Range
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

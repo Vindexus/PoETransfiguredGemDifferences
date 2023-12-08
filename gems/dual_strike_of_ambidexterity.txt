@@ -1,0 +1,13 @@
+Dual Strike
+Critical, Attack, Melee, Strike
+Level: 20 (Max)
+Cost: 5 Mana
+Attack Speed: 70% of base
+Attack Damage: 244% of base
+Effectiveness of Added Damage: 244%
+Quality: +20%
+Requires Level 70, 68 Str, 98 Dex
+Attacks with both weapons, dealing the damage of both in one strike. Dual wield only. Does not work with wands.
+100% more Critical Strike Chance against Enemies that are on Full Life
+90% more Damage with Hits and Ailments against Enemies that are on Full Life
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

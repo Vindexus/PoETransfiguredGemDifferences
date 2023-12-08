@@ -1,0 +1,18 @@
+Ice Crash
+Attack, AoE, Cold, Slam, Melee
+Level: 20 (Max)
+Cost: 8 Mana
+Attack Speed: 70% of base
+Attack Damage: 350% of base
+Effectiveness of Added Damage: 350%
+Quality: +20%
+Requires Level 70, 98 Str, 68 Int
+Slam the ground, damaging enemies in an area around the impact in three stages. Enemies take slightly less damage on the second and third stage. Works with Swords, Maces, Sceptres, Axes, Staves and Unarmed.
+Gain 15% of Physical Damage as Extra Cold Damage
+100% of Physical Damage Converted to Cold Damage
+Second Stage deals 15% less Damage
+Third Stage deals 30% less Damage
+Base radius is 1.1 metres
+Base secondary radius is 2.1 metres
+Base tertiary radius is 3.1 metres
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

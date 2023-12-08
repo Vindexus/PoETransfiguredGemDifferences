@@ -1,0 +1,18 @@
+Scourge Arrow
+Attack, Projectile, Channelling, Chaos, Bow
+Level: 20 (Max)
+Cost: 5 Mana
+Attack Speed: 190% of base
+Attack Damage: 40% of base
+Effectiveness of Added Damage: 40%
+Quality: +20%
+Requires Level 70, 155 Dex
+Channel to infuse an arrow with chaos, gaining stages while it is held. Release to fire it, leaving spore pods in its wake. Each spore pod blooms, firing thorn arrows, which travel for a short time before dissipating. Modifiers that cause additional projectiles to be fired will only apply to the initial arrows, and the spore pods will be split between those arrows.
+Arrows Pierce all Targets
+113 to 169 Added Chaos Damage
+60% of Physical Damage Converted to Chaos Damage
+150% more Damage with Hits and Ailments per Stage
+5 maximum Stages
+Each Spore Pod fires 11 Thorn Arrows
+Thorn Arrows deal 50% less Damage
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

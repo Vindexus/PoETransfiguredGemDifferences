@@ -1,0 +1,14 @@
+Lightning Arrow
+Attack, AoE, Projectile, Lightning, Bow
+Level: 20 (Max)
+Cost: 11 Mana
+Attack Damage: 154% of base
+Effectiveness of Added Damage: 154%
+Quality: +20%
+Requires Level 70, 155 Dex
+Fires a charged arrow at the target, causing them to be struck by a bolt of lightning which damages a number of surrounding enemies.
+50% of Physical Damage Converted to Lightning Damage
+9 to 179 Added Lightning Damage
+Hits up to 5 additional enemies near the target
+Shocks Enemies as though dealing 290% more Damage
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
