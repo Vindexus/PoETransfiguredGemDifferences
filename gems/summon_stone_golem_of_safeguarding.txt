@@ -1,13 +1,14 @@
-Summon Stone Golem
+Summon Stone Golem of Safeguarding
 Minion, Spell, Golem, Physical
 Level: 20 (Max)
 Cost: 54 Mana
-Cooldown Time: 6.00 sec
+Cooldown Time: 15.00 sec
 Cast Time: 1.00 sec
 Quality: +20%
 Requires Level 70, 98 Str, 68 Dex
-Summons a Stone Golem that grants you life regeneration. In addition to its melee attack, the Stone Golem uses a rolling charge and a powerful slam that can taunt enemies.
+Summons a Stone Golem that takes a portion of the melee damage you recieve from enemy hits from its life before yours. In addition to its melee attack, the Stone Golem uses a rolling charge and a powerful slam that can taunt enemies.
 Maximum 1 Summoned Golem
-Golems grant 105 Life Regenerated per second
+Minions have 50% less Maximum Life
+Golems grant 10% of Melee Damage is taken from your Stone Golems' Life before you
 20% increased Buff Effect
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

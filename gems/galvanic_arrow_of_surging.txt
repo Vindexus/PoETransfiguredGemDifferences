@@ -1,4 +1,4 @@
-Galvanic Arrow
+Galvanic Arrow of Surging
 Lightning, Attack, Projectile, AoE, Bow
 Level: 20 (Max)
 Cost: 10 Mana
@@ -6,11 +6,9 @@ Attack Damage: 99% of base
 Effectiveness of Added Damage: 99%
 Quality: +20%
 Requires Level 70, 155 Dex
-Releases arrows along with a burst of lightning which damages all enemies in a cone. The arrows degrade in-flight as the lightning dissipates, soon vanishing.
+Fire a trio of electrical arrows that quickly dissipate, vanishing shortly after being loosed. If the arrows' flight is stopped by colliding with a target, they create a burst of lightning, damaging enemies in a cone behind the target
 50% of Physical Damage Converted to Lightning Damage
 9 to 179 Added Lightning Damage
 Fires 3 Arrows
-+0.5 metres to radius
 40% increased Projectile Speed
-Increases and Reductions to Projectile Speed also apply tothis Skill's Area of Effect
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

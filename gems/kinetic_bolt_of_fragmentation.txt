@@ -1,13 +1,14 @@
-Kinetic Bolt
+Kinetic Bolt of Fragmentation
 Attack, Projectile
 Level: 20 (Max)
 Cost: 10 Mana
-Attack Damage: 175% of base
-Effectiveness of Added Damage: 175%
+Attack Damage: 85% of base
+Effectiveness of Added Damage: 85%
 Quality: +20%
 Requires Level 70, 155 Int
-Fire a projectile from your wand that changes direction in a zig-zag pattern at regular intervals or when hitting enemies. Each time it changes direction, a secondary projectile breaks off, flying in the direction it changed away from.
+Fire a projectile from your wand that changes direction in a zig-zag pattern at regular intervals or when hitting enemies. Each time it changes direction, a secondary projectile breaks off, flying in the direction it changed away from. Multiple of these projectiles can hit the same target.
 Increases and Reductions to Spell Damage also apply to Attack Damage from this Skill at 250% of their value
-Projectile changes direction 8 times
+Projectile changes direction 2 times
+Fires 2 additional Projectiles
 Modifiers which would cause projectiles to Fork instead cause them to change direction additional times
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

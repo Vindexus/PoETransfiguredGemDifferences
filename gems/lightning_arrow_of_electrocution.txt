@@ -1,14 +1,15 @@
-Lightning Arrow
-Attack, AoE, Projectile, Lightning, Bow
+Lightning Arrow of Electrocution
+Attack, Projectile, Lightning, Bow
 Level: 20 (Max)
 Cost: 11 Mana
-Attack Damage: 154% of base
-Effectiveness of Added Damage: 154%
+Attack Damage: 75% of base
+Effectiveness of Added Damage: 75%
 Quality: +20%
 Requires Level 70, 155 Dex
-Fires a charged arrow at the target, causing them to be struck by a bolt of lightning which damages a number of surrounding enemies.
+Fires a charged arrow which damages enemies by causing them to be struck by a bolt of lightning. It sticks into the final target, causing them to be struck and damaged multiple times.
 50% of Physical Damage Converted to Lightning Damage
 9 to 179 Added Lightning Damage
-Hits up to 5 additional enemies near the target
-Shocks Enemies as though dealing 290% more Damage
+Arrows deal Damage final target 4 additional times after sticking in
+Lightning bolts strike every 0.5 seconds
+10 Maximum Lightning Arrows stuck in an Enemy
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

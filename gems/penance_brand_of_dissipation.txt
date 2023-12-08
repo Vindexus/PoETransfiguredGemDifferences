@@ -1,18 +1,21 @@
-Penance Brand
+Penance Brand of Dissipation
 Spell, AoE, Physical, Lightning, Duration, Brand
 Level: 20 (Max)
 Cost: 27 Mana
 Cast Time: 0.75 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 570%
+Effectiveness of Added Damage: 65%
 Quality: +20%
 Requires Level 70, 68 Str, 98 Int
-Creates a magical brand which can attach to a nearby enemy. It periodically activates while attached, adding energy to the branded enemy. When the branded enemy reaches 20 energy, a large explosion occurs and the brand is removed.
-Deals 2541 to 3811 Physical Damage
+Creates a magical brand which can attach to a nearby enemy. It periodically activates while attached, adding energy to the branded enemy and causing a pulse that deals damage to the branded enemy and other nearby enemies. The pulse gains area of effect and damage for each energy on the branded enemy.
+Deals 288 to 432 Physical Damage
 50% of Physical Damage Converted to Lightning Damage
-Activates every 0.1 seconds while Attached
+Activates every 0.6 seconds while Attached
 Increases and Reductions to Cast Speed also apply to this Skill's Activation frequency
-30% less Damage with Ailments
+Pulses deal 40% more Damage with Ailments per Energy after the first
+Pulses deal 60% more Damage with Hits per Energy after the first
++0.1 metres to Explosion radius per Energy
+Can be Attached for a total Duration of 5.00 seconds
 Can be Detached for a total Duration of 6.00 seconds
-Deals +10% more Damage with Hits against Branded Enemy
+Deals 10% more Damage with Hits against Branded Enemy
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

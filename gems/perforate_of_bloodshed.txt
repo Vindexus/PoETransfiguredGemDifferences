@@ -1,15 +1,16 @@
-Perforate
+Perforate of Bloodshed
 Physical, Attack, AoE, Slam, Melee
 Level: 20 (Max)
 Cost: 6 Mana
 Attack Speed: 80% of base
-Attack Damage: 265% of base
-Effectiveness of Added Damage: 265%
+Attack Damage: 85% of base
+Effectiveness of Added Damage: 85%
 Quality: +20%
 Requires Level 70, 98 Str, 68 Dex
-Smash the ground to bring forth multiple spears to damage enemies. When in Blood Stance, multiple spikes burst from the ground in sequence, able to hit enemies multiple times. In Sand Stance, the spikes are thrust outwards. Requires a Sword or Axe. You are in Blood Stance by default.
+Smash the ground to bring forth multiple spikes from the ground in sequence, able to hit enemies multiple times.
+Requires a Sword or Axe.
 75 to 113 Added Attack Physical Damage
-Creates 9 Spikes
-75% less Damage while in Blood Stance
-76% more Area of Effect while in Sand Stance
+Creates 6 Spikes
+88% more Damage with Bleeding
+25% chance to cause Bleeding
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

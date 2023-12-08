@@ -1,4 +1,4 @@
-Perforate
+Perforate of Duality
 Physical, Attack, AoE, Slam, Melee
 Level: 20 (Max)
 Cost: 6 Mana
@@ -9,7 +9,8 @@ Quality: +20%
 Requires Level 70, 98 Str, 68 Dex
 Smash the ground to bring forth multiple spears to damage enemies. When in Blood Stance, multiple spikes burst from the ground in sequence, able to hit enemies multiple times. In Sand Stance, the spikes are thrust outwards. Requires a Sword or Axe. You are in Blood Stance by default.
 75 to 113 Added Attack Physical Damage
-Creates 9 Spikes
+Creates 10 additional Spikes if you've changed Stance Recently
+Creates 5 Spikes
 75% less Damage while in Blood Stance
 76% more Area of Effect while in Sand Stance
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

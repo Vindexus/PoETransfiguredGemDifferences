@@ -1,14 +1,15 @@
-Frost Blades
-Attack, Projectile, Melee, Strike, Cold
+Frost Blades of Katabasis
+Attack, Melee, Strike, Cold, AoE, Duration
 Level: 20 (Max)
 Cost: 6 Mana
 Attack Damage: 225% of base
 Effectiveness of Added Damage: 225%
 Quality: +20%
 Requires Level 70, 155 Dex
-Attack enemies with increased range, releasing icy blades from the first enemy hit which fly at other enemies. Requires a Melee Weapon.
-75 to 113 Added Cold Damage
-Fires 10 Projectiles
+Attack enemies with greatly increased range, creating a chilling area that deals cold damage over time if it hits. Requires a Melee Weapon.
+Base duration is 3.00 seconds
+Deals 2787 Base Cold Damage per second
+This Skill's Area of Effect cannot be modified
 60% of Physical Damage Converted to Cold Damage
-+2.1 metres to Melee Strike Range
++6 metres to Melee Strike Range
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

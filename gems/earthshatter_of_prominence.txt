@@ -1,16 +1,16 @@
-Earthshatter
+Earthshatter of Prominence
 Attack, AoE, Slam, Duration, Melee
 Level: 20 (Max)
 Cost: 8 Mana
 Attack Speed: 80% of base
-Attack Damage: 200% of base
-Effectiveness of Added Damage: 200%
+Attack Damage: 170% of base
+Effectiveness of Added Damage: 170%
 Quality: +20%
 Requires Level 70, 155 Str
-Slam the ground, sending out rectangular fissures that deal area damage to enemies and thrust a spike from the ground when they end. Warcries or other Slam Attacks performed by you or allied players near any spike will cause them to shatter, damaging surrounding enemies. Works with Maces, Sceptres, Axes, Staves and Unarmed.
+Slam the ground, sending out a rectangular fissure that deals area damage to enemies and thrusts a large spike from the ground where it ends. Warcries or other Slam Attacks performed by you or allied players near the spike will cause it to shatter, damaging surrounding enemies. Works with Maces, Sceptres, Axes, Staves and Unarmed.
 Base duration is 6.00 seconds
-19% more Area of Effect
-Shattering Spikes deal 30% less damage
-Maximum 18 Spikes
-Creates 6 fissures
+Shattering Spikes have 157% more Area of Effect
+Shattering Spikes deal 120% more damage
++5 Maximum Spikes
+Creates +1 fissure
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

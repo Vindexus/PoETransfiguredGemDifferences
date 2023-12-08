@@ -1,13 +1,12 @@
-Summon Stone Golem
+Summon Stone Golem of Hordes
 Minion, Spell, Golem, Physical
 Level: 20 (Max)
 Cost: 54 Mana
-Cooldown Time: 6.00 sec
+Cooldown Time: 2.00 sec
 Cast Time: 1.00 sec
 Quality: +20%
 Requires Level 70, 98 Str, 68 Dex
-Summons a Stone Golem that grants you life regeneration. In addition to its melee attack, the Stone Golem uses a rolling charge and a powerful slam that can taunt enemies.
-Maximum 1 Summoned Golem
-Golems grant 105 Life Regenerated per second
-20% increased Buff Effect
+Summons a Stone Golem. In addition to its melee attack, the Stone Golem uses a rolling charge and a powerful slam that can taunt enemies.
+Maximum 3 Summoned Golems
+Minions have 40% increased Cooldown Recovery Rate
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

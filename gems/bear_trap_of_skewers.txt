@@ -1,19 +1,19 @@
-Bear Trap
+Bear Trap of Skewers
 Trap, Spell, Duration, Physical
 Level: 20 (Max)
 Cost: 23 Mana
 Cooldown Time: 4.00 sec (3 uses)
 Cast Time: 1.00 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 260%
+Effectiveness of Added Damage: 150%
 Quality: +20%
 Requires Level 70, 155 Dex
-Throws a trap that damages and immobilises a single enemy for a duration based on how much damage was dealt. After the immobilise expires, a debuff remains on the enemy for a duration, lowering their movement speed by an amount which lessens over time. The affected enemy will take increased damage from traps and mines until the debuff expires. Modifiers to spell damage do not affect this skill's damage.
-Deals 1447 to 2026 Physical Damage
+Throws a trap that damages and impales a single enemy, and immobilises them for a duration based on how much damage was dealt. Modifiers to spell damage do not affect this skill's damage.
+Deals 711 to 995 Physical Damage
 Traps do not Trigger at the end of their Duration
 Trap lasts 4 seconds
-Base duration is 4.00 seconds
 Locks enemy in place
-Enemies take 25% increased Damage from Trap or Mine Hits
-Enemies have 80% less Movement Speed when the Debuff starts
+Killing Blows cause Impales on Enemies to Reflect Damage to surrounding Enemies
+275% increased Impale Effect
+Impale Enemies on Hit
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

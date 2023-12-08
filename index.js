@@ -11,7 +11,7 @@ if (!['original', 'transfigured'].includes(versionToWrite)) {
 
 let transfigured = {}
 
-for (let i = 1; i <= 5; i++) {
+for (let i = 5; i <= 5; i++) {
 	const jsonStr = fs.readFileSync('./data/transfigured' + i + '.json')
 	const json = JSON.parse(jsonStr)
 	transfigured = {

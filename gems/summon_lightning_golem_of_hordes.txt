@@ -1,13 +1,12 @@
-Summon Lightning Golem
+Summon Lightning Golem of Hordes
 Lightning, Minion, Spell, Golem
 Level: 20 (Max)
 Cost: 54 Mana
-Cooldown Time: 6.00 sec
+Cooldown Time: 2.00 sec
 Cast Time: 1.00 sec
 Quality: +20%
 Requires Level 70, 68 Dex, 98 Int
-Summons a Lightning Golem that grants you increased Attack and Cast speed. The Lightning Golem fires a projectile spell, creates orbs of Lightning that zap nearby enemies, and casts a temporary aura that grants added Lightning Damage to spells and attacks used by the Golem and its nearby allies.
-Maximum 1 Summoned Golem
-Golems grant 9% increased Attack and Cast Speed
-20% increased Buff Effect
+Summons a Lightning Golem. The Lightning Golem fires a projectile spell, creates orbs of Lightning that zap nearby enemies, and casts a temporary aura that grants added Lightning Damage to spells and attacks used by the Golem and its nearby allies.
+Maximum 3 Summoned Golems
+Minions have 40% increased Cooldown Recovery Rate
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

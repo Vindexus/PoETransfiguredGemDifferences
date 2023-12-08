@@ -1,17 +1,20 @@
-Shrapnel Ballista
+Shrapnel Ballista of Steel
 Attack, Projectile, Totem, Physical, Bow
 Level: 20 (Max)
 Cost: 11 Mana
-Attack Speed: 50% of base
-Attack Damage: 44% of base
-Effectiveness of Added Damage: 44%
+Attack Speed: 40% of base
+Attack Damage: 57.2% of base
+Effectiveness of Added Damage: 58%
 Quality: +20%
 Requires Level 70, 155 Dex
-Summons a ballista totem that fires multiple arrows with extreme force, breaking them apart into shrapnel. Enemies can be hit by multiple arrows from the same attack. Requires a Bow.
+Summons a ballista totem that consumes your Steel Shards to fire multiple arrows with extreme force, breaking them apart into shrapnel. Enemies can be hit by multiple arrows from the same attack. Requires a Bow. Steel Shards are gained with the Call of Steel Skill.
 Totem lasts 8 seconds
 +3 to maximum number of Summoned Ballista Totems
 56 to 85 Added Attack Physical Damage
 Fires 3 Arrows
 Summons a Ballista Totem which uses this Skill
 40% increased Projectile Speed
+40% chance to Impale Enemies on Hit
+If you have no Steel Shards, only Fires 1 Projectile
+Totem Attacks consume up to 1 of your Steel Shards
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

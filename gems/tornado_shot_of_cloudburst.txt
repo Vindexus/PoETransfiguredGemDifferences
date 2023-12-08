@@ -1,11 +1,13 @@
-Tornado Shot
+Tornado Shot of Cloudburst
 Attack, Projectile, Bow
 Level: 20 (Max)
 Cost: 10 Mana
-Attack Damage: 120% of base
-Effectiveness of Added Damage: 120%
+Attack Damage: 210% of base
+Effectiveness of Added Damage: 210%
 Quality: +20%
 Requires Level 70, 155 Dex
-Fires a piercing shot that travels until it reaches the targeted location. It will then fire projectiles out in all directions from that point, which will travel for a short time before disappearing.
-Fires 4 secondary Projectiles
+Fires a single payload arrow into the air to land at a targeted location. It will then fire arrows out in all directions from that point.
+Fires 13 Arrows
+Fires Projectiles in a circle
+Fires a Payload Arrow into the airProjectiles Fire from where the Payload Arrow lands
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

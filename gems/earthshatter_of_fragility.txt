@@ -1,14 +1,14 @@
-Earthshatter
+Earthshatter of Fragility
 Attack, AoE, Slam, Duration, Melee
 Level: 20 (Max)
 Cost: 8 Mana
 Attack Speed: 80% of base
-Attack Damage: 200% of base
-Effectiveness of Added Damage: 200%
+Attack Damage: 150% of base
+Effectiveness of Added Damage: 150%
 Quality: +20%
 Requires Level 70, 155 Str
-Slam the ground, sending out rectangular fissures that deal area damage to enemies and thrust a spike from the ground when they end. Warcries or other Slam Attacks performed by you or allied players near any spike will cause them to shatter, damaging surrounding enemies. Works with Maces, Sceptres, Axes, Staves and Unarmed.
-Base duration is 6.00 seconds
+Slam the ground, sending out rectangular fissures that deal area damage to enemies and thrust a spike from the ground when they end. The spikes shatter after a duration, damaging surrounding enemies. Works with Maces, Sceptres, Axes, Staves and Unarmed.
+Base duration is 1.50 seconds
 19% more Area of Effect
 Shattering Spikes deal 30% less damage
 Maximum 18 Spikes

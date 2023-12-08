@@ -1,14 +1,13 @@
-Power Siphon
+Power Siphon of the Archmage
 Critical, Attack, Projectile
 Level: 20 (Max)
 Cost: 11 Mana
-Attack Damage: 159% of base
-Effectiveness of Added Damage: 159%
+Attack Damage: 100% of base
 Quality: +20%
 Requires Level 70, 155 Int
-Fires your wand simultaneously at all nearby enemies, culling those close to death and granting you a power charge for each. Cannot be supported by Volley.
+Fires your wand to fire a single projectile each at a number of nearby enemies, granting you a power charge if an enemy is killed by, or soon after, the hit.
+Deals Added Lightning Damage equal to 20% of maximum Mana
 Fires a Projectile at up to 7 targetsModifiers to number of Projectiles instead apply to number of targets fired at
 Culling Strike
 20% chance to gain a Power Charge when Projectile Hits a Rare or Unique Enemy
-10% more Critical Strike Chance per Power Charge
-+30% to Critical Strike Multiplier per Power Charge
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

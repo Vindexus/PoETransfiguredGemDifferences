@@ -1,14 +1,14 @@
-Storm Rain
+Storm Rain of the Conduit
 Attack, AoE, Lightning, Projectile, Bow
 Level: 20 (Max)
 Cost: 11 Mana
-Attack Damage: 58% of base
-Effectiveness of Added Damage: 58%
+Attack Damage: 90% of base
+Effectiveness of Added Damage: 90%
 Quality: +20%
 Requires Level 70, 155 Dex
-Fires an arrow into the air to land at a targeted location, dealing area damage. The arrow sticks in the ground where it lands, and periodically fires a beam of lightning to another arrow near it, dealing area damage between them.
+Fires an arrow into the air to land at a targeted location, dealing area damage. The arrow sticks in the ground where it lands, and periodically fires a beam of lightning to you, dealing area damage between the arrow and you.
 50% of Physical Damage Converted to Lightning Damage
 Arrows fire Beams every 0.41 seconds
-Maximum 100 Arrows in the ground
+Maximum 10 Arrows in the ground
 Each Arrow can fire 5 Beams
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

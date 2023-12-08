@@ -1,11 +1,11 @@
-Rain of Arrows
+Rain of Arrows of Saturation
 Attack, AoE, Projectile, Bow
 Level: 20 (Max)
 Cost: 11 Mana
-Attack Damage: 60% of base
-Effectiveness of Added Damage: 60%
+Attack Damage: 35% of base
+Effectiveness of Added Damage: 35%
 Quality: +20%
 Requires Level 70, 155 Dex
-Fires multiple arrows into the air, to land in sequence after a delay, starting at the targeted location and spreading outwards in all directions. Each arrow deals damage in an area around it. Half of the arrows will land directly on targets if there are targets in their range.
-Fires 26 Arrows
+Fires multiple arrows into the air, to slowly land in sequence after a delay, starting at the targeted location and spreading outwards in all directions. Each arrow deals damage in an area around it. Half of the arrows will land directly on targets if there are targets in their range.
+Fires 41 Arrows
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
