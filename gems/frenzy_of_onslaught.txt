@@ -1,4 +1,4 @@
-Frenzy
+Frenzy of Onslaught
 Attack, Projectile, Melee, Strike, Bow
 Level: 20 (Max)
 Cost: 10 Mana
@@ -7,6 +7,7 @@ Effectiveness of Added Damage: 135%
 Quality: +20%
 Requires Level 70, 155 Dex
 Performs an attack that gives the character a frenzy charge if it hits. Frenzy charges increase your attack speed.
+Consume all Frenzy Charges when you Hit an enemy while at maximum Frenzy Charges to gain Onslaught for 1 second per Charge consumed
 7% more Attack Damage per Frenzy Charge
 7% more Attack Speed per Frenzy Charge
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,16 +1,17 @@
-Dominating Blow
-Spell, Minion, Duration, Attack, Melee, Strike
+Dominating Blow of Inspiring
+Attack, Minion, Duration, Melee, Strike
 Level: 20 (Max)
 Cost: 8 Mana
 Attack Damage: 238% of base
 Effectiveness of Added Damage: 238%
 Quality: +20%
 Requires Level 70, 98 Str, 68 Int
-This spell causes one of your existing Sentinels of Dominance to Ascend, becoming more powerful, gaining new attacks, and overriding its duration, while maintaining its monster modifiers and other bonuses, including from support gems. If you cannot have more Ascended Sentinels of Dominance, an existing one will be refreshed instead.
+Attacks enemies with a melee strike, applying a debuff for a short duration. If a non-unique enemy dies while affected by the debuff, the enemy's corpse will be consumed and a Sentinel of Dominance with the same rarity, prefix and suffix modifiers will be summoned for a longer secondary duration.
 Base duration is 1.00 seconds
 Base secondary duration is 20.00 seconds
-Minions have 40% increased Cooldown Recovery Rate
-Maximum 9 Summoned Normal Sentinels of Dominance
+Increases and Reductions to Minion Damage also applyto this Skill's Damage at 250% of their value
+Maximum 6 Summoned Normal Sentinels of Dominance
 Maximum 3 Summoned Magic Sentinels of Dominance
 Maximum 1 Summoned Rare Sentinel of Dominance
 25% Chance to Summon a Normal Sentinel of Dominance on Hitting a Unique Monster
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

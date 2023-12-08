@@ -1,11 +1,12 @@
-Summon Skeletons
-Spell, Minion, Duration
+Summon Skeletons of Mages
+Spell, Minion, Duration, Prismatic
 Level: 20 (Max)
 Cost: 16 Mana
 Cast Time: 0.50 sec
 Quality: +20%
 Requires Level 70, 155 Int
-Summons an army of skeletal soldiers, archers and mages, led by a powerful general.
+Summon Skeleton Mage minions of random elemental types at the targeted location. They cast projectile spells based on their element, and die after a duration.
 Base duration is 20.00 seconds
 Maximum 8 Summoned Skeletons
-Summons 3 Skeleton Warriors
+Summons 3 Skeleton Mages
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

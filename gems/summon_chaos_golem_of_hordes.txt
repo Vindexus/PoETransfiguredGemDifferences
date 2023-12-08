@@ -1,13 +1,12 @@
-Summon Chaos Golem
+Summon Chaos Golem of Hordes
 Chaos, Minion, Spell, Golem
 Level: 20 (Max)
 Cost: 54 Mana
-Cooldown Time: 6.00 sec
+Cooldown Time: 2.00 sec
 Cast Time: 1.00 sec
 Quality: +20%
 Requires Level 70, 155 Int
-Summons a Chaos Golem that grants you Physical Damage Reduction. The Chaos Golem can use a damage over time Chaos aura and a cascade of Chaos spikes in addition to its melee attack.
-Maximum 1 Summoned Golem
-Golems grant 4% additional Physical Damage Reduction
-20% increased Buff Effect
+Summons a Chaos Golem. The Chaos Golem can cast a damage over time Chaos aura and a cascade of Chaos spikes in addition to its melee attack.
+Maximum 3 Summoned Golems
+Minions have 40% increased Cooldown Recovery Rate
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

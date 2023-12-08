@@ -1,16 +1,14 @@
-Animate Weapon
-Duration, Minion, Spell, Physical
+Animate Weapon of Self Reflection
+Duration, Minion, Spell
 Level: 20 (Max)
 Cost: 16 Mana
 Cast Time: 0.60 sec
 Quality: +20%
 Requires Level 70, 98 Dex, 68 Int
-Animates a Melee Weapon Item or Lingering Blade to fight by your side. You cannot animate unidentified Weapons. Will not animate weapons with 6 sockets. Cannot be used by Traps or Mines.
-Base duration is 40.00 seconds
+Animates a copy of your main hand Melee Weapon to fight by your side. Cannot be used by Totems, Traps or Mines.
+Base duration is 15.00 seconds
 Can use Items requiring up to Level 100
-Minions' Attacks deal 126 to 184 additional Physical Damage
-Animated Lingering Blades deal 17 to 80 Added Attack Physical Damage
 Minions deal 38% more Damage
-Maximum 16 Animated Weapons
+Maximum 6 Animated Weapons
 Minions have 38% more Attack Speed
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,5 +1,5 @@
-Ethereal Knives
-Spell, Projectile, Physical
+Ethereal Knives of Lingering Blades
+Spell, Projectile, Physical, Duration
 Level: 20 (Max)
 Cost: 20 Mana
 Cast Time: 0.60 sec
@@ -7,7 +7,10 @@ Critical Strike Chance: 6.00%
 Effectiveness of Added Damage: 220%
 Quality: +20%
 Requires Level 70, 98 Dex, 68 Int
-Fires an arc of knives in front of the caster which deals physical damage.
+Fires an arc of knives in front of the caster which deal physical damage. Cannot be supported by Volley.
 Deals 949 to 1423 Physical Damage
-Fires 15 Projectiles
+Base duration is 6.00 seconds
+Fires 10 Projectiles
+Each Projectile fired remains in the ground as a Lingering Blade
+Maximum 40 Lingering Blades can be left in the ground at a time
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

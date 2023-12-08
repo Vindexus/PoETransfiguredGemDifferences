@@ -1,5 +1,5 @@
-Flicker Strike
-Attack, Melee, Strike, Movement, Duration
+Flicker Strike of Power
+Critical, Attack, Melee, Strike, Movement, Duration
 Level: 20 (Max)
 Cost: 10 Mana
 Cooldown Time: 2.00 sec
@@ -8,9 +8,9 @@ Attack Damage: 210% of base
 Effectiveness of Added Damage: 210%
 Quality: +20%
 Requires Level 70, 155 Dex
-Teleports the character to a nearby monster and attacks with a melee weapon. If no specific monster is targeted, one is picked at random. Grants a buff that increases movement speed for a duration. The cooldown can be bypassed by expending a Frenzy Charge.
+Teleports the character to a nearby monster and attacks with a melee weapon. If no specific monster is targeted, one is picked at random. Grants a buff that increases movement speed for a duration. The cooldown can be bypassed by expending a Power Charge.
 Base duration is 3.00 seconds
-10% increased Attack Speed per Frenzy Charge
-25% chance to gain a Frenzy Charge on Hit
+50% chance to gain a Power Charge on Critical Strike
+30% increased Critical Strike Chance per Power Charge
 Buff grants 20% increased Movement Speed
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

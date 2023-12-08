@@ -1,19 +1,17 @@
-Discharge
+Discharge of Misery
 Spell, AoE, Fire, Cold, Lightning, Nova
 Level: 20 (Max)
 Cost: 25 Mana
-Cooldown Time: 2.00 sec
 Cast Time: 0.75 sec
 Critical Strike Chance: 7.00%
-Effectiveness of Added Damage: 600%
+Effectiveness of Added Damage: 180%
 Quality: +20%
 Requires Level 70, 155 Int
 Discharge all the character's charges to deal elemental damage to all nearby monsters.
-Deals 639 to 1918 base Lightning Damage per Power Charge removed
-Deals 1023 to 1535 base Fire Damage per Endurance Charge removed
-Deals 1023 to 1535 base Cold Damage per Frenzy Charge removed
-60% less Damage with Ailments
-Base radius is 3 metres
+Deals 195 to 584 base Lightning Damage per Power Charge removed
+Deals 311 to 467 base Fire Damage per Endurance Charge removed
+Deals 311 to 467 base Cold Damage per Frenzy Charge removed
+Base radius is 2 metres
 15% more Area of Effect per Charge removed
 10% chance to deal Damage without removing Charges
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

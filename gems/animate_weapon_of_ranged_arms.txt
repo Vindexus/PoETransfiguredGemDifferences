@@ -1,13 +1,14 @@
-Animate Weapon
+Animate Weapon of Ranged Arms
 Duration, Minion, Spell, Physical
 Level: 20 (Max)
-Cost: 16 Mana
-Cast Time: 0.60 sec
+Cost: 20 Mana
+Cast Time: 0.75 sec
 Quality: +20%
 Requires Level 70, 98 Dex, 68 Int
-Animates a Melee Weapon Item or Lingering Blade to fight by your side. You cannot animate unidentified Weapons. Will not animate weapons with 6 sockets. Cannot be used by Traps or Mines.
+Animates a Ranged Weapon Item or Lingering Blade to fight by your side. You cannot animate unidentified Weapons. Will not animate weapons with 6 sockets. Cannot be used by Traps or Mines.
 Base duration is 40.00 seconds
 Can use Items requiring up to Level 100
+Animated Lingering Blades become Bows
 Minions' Attacks deal 126 to 184 additional Physical Damage
 Animated Lingering Blades deal 17 to 80 Added Attack Physical Damage
 Minions deal 38% more Damage

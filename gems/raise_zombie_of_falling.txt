@@ -1,11 +1,12 @@
-Raise Zombie
+Raise Zombie of Falling
 Spell, Minion
 Level: 20 (Max)
-Cost: 28 Mana
-Cast Time: 0.85 sec
+Cost: 24 Mana
+Cast Time: 0.75 sec
 Quality: +20%
 Requires Level 70, 155 Int
-Raises a zombie minion from a corpse, which will follow you and attack enemies with a melee strike.
-Maximum 7 Raised Zombies
-Minions have 38% more Maximum Life
+Raises necromantic energies into the sky above a targeted location, where they coalese into a zombie minion. The minion then attacks by falling to the ground, causing an impact that deals damage in an area and kills the zombie.
+Does not require a corpse
+Minions have 15% chance to deal Double Damage
+Minions' Hits can't be Evaded
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

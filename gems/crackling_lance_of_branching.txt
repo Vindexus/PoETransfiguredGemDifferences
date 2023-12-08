@@ -1,16 +1,14 @@
-Crackling Lance
+Crackling Lance of Branching
 Spell, AoE, Lightning
 Level: 20 (Max)
-Cost: 21 Mana
-Cast Time: 0.65 sec
+Cost: 25 Mana
+Cast Time: 0.75 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 165%
+Effectiveness of Added Damage: 260%
 Quality: +20%
 Requires Level 70, 155 Int
 Release a beam which deals lightning damage to enemies in a long area in front of you, and has several smaller beams branch off from it at an angle, hitting more enemies to the sides.
-Deals 458 to 1375 Lightning Damage
-This Spell loses 1 Intensity every 0.25 seconds while moving, or immediately if you teleport
-This Spell gains Intensity when you Cast it, to a maximum of 3
-+0.3 metres to Beam Width Per Intensity33% less branching angle per Intensity
-45% more Damage with Hits and Ailments per Intensity
+Deals 724 to 2172 Lightning Damage
+20% more Area of Effect
+50% increased branching angle
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

@@ -1,17 +1,15 @@
-Flameblast
+Flameblast of Celerity
 Spell, AoE, Fire, Channelling
 Level: 20 (Max)
-Cost: 7 Mana
-Cast Time: 0.20 sec
+Cost: 10 Mana
+Cast Time: 0.25 sec
 Critical Strike Chance: 5.00%
-Effectiveness of Added Damage: 90%
 Quality: +20%
 Requires Level 70, 155 Int
-Channels to build up a large explosion, which is released when you stop using the skill. The longer you channel, the larger the area of effect and damage of the explosion.
-Deals 405 to 608 Fire Damage
-50% chance to Ignite enemies
+Channels to build up an explosion, which is released when you stop using the skill or automatically at maximum stages. The longer you channel, the larger the area of effect and damage of the explosion.
+Deals 443 to 665 Fire Damage
 165% more Spell Damage for each stage
-60% more Damage with Ailments for each stage
-11 maximum Stages
-+0.3 metres to radius per Stage
+Base radius is 0.8 metres
+3 maximum Stages
++0.7 metres to radius per Stage
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

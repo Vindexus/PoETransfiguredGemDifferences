@@ -1,13 +1,15 @@
-Ball Lightning
-Spell, Projectile, AoE, Lightning
+Ball Lightning of Static
+Spell, AoE, Lightning, Orb
 Level: 20 (Max)
 Cost: 23 Mana
+Cooldown Time: 1.50 sec (3 uses)
 Cast Time: 0.70 sec
 Critical Strike Chance: 5.00%
-Effectiveness of Added Damage: 60%
+Effectiveness of Added Damage: 90%
 Quality: +20%
 Requires Level 70, 155 Int
-Fires a slow-moving projectile that damages enemies in an area around it with bolts of lightning.
-Deals 32 to 617 Lightning Damage
-Base radius is 2 metres
+Creates a ball of lightning at a location that damages each enemy in an area around it repeatedly with bolts of lightning. Cannot be supported by Spell Echo.
+Deals 50 to 946 Lightning Damage
+Base radius is 2.8 metres
+20% increased Cooldown Recovery Rate
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

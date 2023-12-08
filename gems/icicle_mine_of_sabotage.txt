@@ -1,19 +1,20 @@
-Icicle Mine
+Icicle Mine of Sabotage
 Mine, Critical, Spell, Projectile, Cold, Aura, AoE
 Level: 20 (Max)
 Cost: 6 Mana
-Reservation: 6 Mana
+Reservation: 15 Mana
 Cast Time: 0.75 sec
-Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 110%
+Critical Strike Chance: 4.00%
+Effectiveness of Added Damage: 90%
 Quality: +20%
 Requires Level 70, 68 Dex, 98 Int
 Throws a mine that fires projectiles around it when detonated. These projectiles quickly dissipate as they travel, before disappearing.
-Deals 514 to 771 Cold Damage
+Deals 388 to 583 Cold Damage
 Mine lasts 5 seconds
 Base Mine Detonation Time is 0.30 seconds
-Fires 7 Projectiles
+Fires 5 Projectiles
 Fires Projectiles in a circle
+20% increased effect of Aura
 Fires an additional Projectile for every 2 prior Mines in Detonation Sequence
-Each Mine applies 10% increased Critical Strike Chance to Hits against Enemies near it, up to a maximum of 500%
+Each Mine applies 40% increased Critical Strike Chance to Hits against Enemies near it, up to a maximum of 500%
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

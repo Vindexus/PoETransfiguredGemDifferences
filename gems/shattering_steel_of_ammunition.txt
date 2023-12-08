@@ -1,5 +1,5 @@
-Shattering Steel
-Attack, Projectile, AoE, Physical
+Shattering Steel of Ammunition
+Attack, Projectile, AoE, Physical, Duration
 Level: 20 (Max)
 Cost: 9 Mana
 Attack Speed: 85% of base
@@ -7,9 +7,14 @@ Attack Damage: 159% of base
 Effectiveness of Added Damage: 159%
 Quality: +20%
 Requires Level 70, 68 Str, 98 Dex
-Swing an Axe or Sword, firing projectiles which shatter on impact or soon after being launched, dealing area damage in front of where they shatter.
+Swing an Axe or Sword, consuming Steel Shards to gain a Steel Ward that protects you for a duration, and fire projectiles which shatter on impact or soon after being launched, dealing area damage in front of where they shatter. Steel Shards are gained with the Call of Steel Skill.
+Base duration is 6.00 seconds
 123 to 185 Added Attack Physical Damage
-Fires 2 additional Projectiles
+Fires 3 Projectiles
+Gain a Steel Ward if you have at least 2 Steel Shards, up to a maximum of 6Each Steel Ward grants +8% Chance to Block Projectile Attack Damage
 40% chance to Impale Enemies on Hit
+If you have no Steel Shards, only Fires 1 Projectile
 40% increased Impale Effect
+Projectiles deal up to 110% more Damage with Hits per Steel Shard consumed at the start of their movement, lowering this bonus as they travel farther
+Consumes up to 2 Steel Shards
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

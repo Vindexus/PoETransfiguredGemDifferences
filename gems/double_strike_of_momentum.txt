@@ -1,14 +1,13 @@
-Double Strike
-Attack, Melee, Strike, Physical
+Double Strike of Momentum
+Attack, Melee, Strike
 Level: 20 (Max)
 Cost: 5 Mana
 Attack Speed: 80% of base
-Attack Damage: 140% of base
-Effectiveness of Added Damage: 140%
+Attack Damage: 95% of base
+Effectiveness of Added Damage: 95%
 Quality: +20%
 Requires Level 70, 155 Dex
-Performs two fast strikes with a melee weapon.
-25% chance to cause Bleeding
-20% chance to deal Double Damage to Bleeding Enemies
-Adds 113 to 169 Physical Damage against Bleeding Enemies
+Performs two fast strikes with a melee weapon, gaining stages which cause this skill to attack faster. All stages are lost when you move.
+14% more Attack Speed for each Stage
+Gain a Stage at the start of each pair of swingsMaximum 10 Stages
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

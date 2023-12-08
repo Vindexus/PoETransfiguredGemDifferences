@@ -1,15 +1,13 @@
-Detonate Dead
+Detonate Dead of Chain Reaction
 Spell, AoE, Fire
 Level: 20 (Max)
-Cost: 20 Mana
-Cast Time: 0.60 sec
+Cost: 27 Mana
+Cast Time: 0.80 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 160%
 Quality: +20%
 Requires Level 70, 98 Dex, 68 Int
-Targets a corpse, and deals spell damage to enemies around the corpse, as well as causing the corpse to explode, dealing fire damage. The explosion is not affected by modifiers to spell damage and cannot be reflected.
-Deals 798 to 1197 Fire Damage
-Explosion deals base Fire Damage equal to 7.9% of the corpse's Maximum Life
+Targets a corpse, and deals spell damage to enemies around the corpse, as well as causing the corpse to explode, dealing fire damage. The explosion is not affected by modifiers to spell damage and cannot be reflected. This will continue to target other corpses in the area, with a shorter delay between each one, until it runs out of corpses or has destroyed 8 corpses.
+Deals 469 to 704 Fire Damage
+Explosion deals base Fire Damage equal to 5% of the corpse's Maximum Life
 Base radius is 2.6 metres
-15% chance to detonate an additional corpse
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

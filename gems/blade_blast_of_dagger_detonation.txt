@@ -1,13 +1,13 @@
-Blade Blast
-Spell, AoE, Physical
+Blade Blast of Dagger Detonation
+Spell, AoE, Physical, Nova
 Level: 20 (Max)
-Cost: 16 Mana
-Cast Time: 0.50 sec
+Cost: 21 Mana
+Cast Time: 0.65 sec
 Critical Strike Chance: 6.00%
-Effectiveness of Added Damage: 70%
 Quality: +20%
 Requires Level 70, 155 Dex
-Deals spell damage in a targeted area. Each time this spell deals damage,  it will detonate any of your Lingering Blades it touches, dealing damage again in an area around them. Up to 50 Blades can be detonated this way.
+Deals spell damage in an area around you. Your equipped daggers add to this damage.
 Deals 309 to 464 Physical Damage
-Base radius is 1.5 metres
+Deals Added Spell Damage equal to 580% of Damage of Equipped DaggerIf two Daggers are Equipped, each contributes half as much Added Damage
+Base radius is 2.9 metres
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

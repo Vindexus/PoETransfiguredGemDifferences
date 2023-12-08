@@ -1,13 +1,15 @@
-Ball Lightning
+Ball Lightning of Orbiting
 Spell, Projectile, AoE, Lightning
 Level: 20 (Max)
-Cost: 23 Mana
-Cast Time: 0.70 sec
+Cost: 19 Mana
+Cast Time: 0.60 sec
 Critical Strike Chance: 5.00%
-Effectiveness of Added Damage: 60%
+Effectiveness of Added Damage: 50%
 Quality: +20%
 Requires Level 70, 155 Int
-Fires a slow-moving projectile that damages enemies in an area around it with bolts of lightning.
-Deals 32 to 617 Lightning Damage
-Base radius is 2 metres
+Fires a single projectile which moves in a spiral while damaging each enemiy in an area around it repeatedly with bolts of lightning.
+Deals 27 to 511 Lightning Damage
+Modifiers to number of Projectiles do not apply to this Skill
+Base radius is 2.2 metres
+100% more Projectile Speed
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

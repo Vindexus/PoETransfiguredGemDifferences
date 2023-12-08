@@ -1,12 +1,13 @@
-Spectral Throw
+Spectral Throw of Materialising
 Attack, Projectile
 Level: 20 (Max)
 Cost: 8 Mana
 Attack Speed: 110% of base
-Attack Damage: 125% of base
-Effectiveness of Added Damage: 125%
+Attack Damage: 240% of base
+Effectiveness of Added Damage: 240%
 Quality: +20%
 Requires Level 70, 68 Str, 98 Dex
-Throws a spectral copy of your melee weapon. It flies out and then returns to you, in a spinning attack that damages enemies in its path.
+Throws a spectral copy of your melee weapon. It flies out and then returns to you, in a spinning attack that only damages enemies while returning.
+30% reduced Projectile Deceleration
 Projectiles that have Pierced deal 10% more Damage
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.

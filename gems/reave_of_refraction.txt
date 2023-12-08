@@ -1,4 +1,4 @@
-Reave
+Reave of Refraction
 Attack, AoE, Melee
 Level: 20 (Max)
 Cost: 6 Mana
@@ -6,9 +6,10 @@ Attack Damage: 250% of base
 Effectiveness of Added Damage: 250%
 Quality: +20%
 Requires Level 70, 98 Dex, 68 Int
-Attacks a small area in front of you. Each Reave that hits an enemy grants stages, which you will begin to lose after a short period without hitting anything. Only works with Daggers, Claws, and One-Handed Swords.
+Attacks an area in front of you. Each Reave that hits an enemy grants stages, which you will begin to lose after a short period without hitting anything. Only works with Daggers, Claws, and One-Handed Swords.
 4 Maximum Stages
 +0.2 metres to radius
 50% more Area of Effect for each stage
 +2 to maximum Stages
+Converts 100% of Physical Damage to a random Element
 Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
